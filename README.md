@@ -19,12 +19,10 @@
 💬 Knowledge Exchange: Let's discuss Zero-day Research, Privilege Escalation, ...<br><br>
 
 <!--- Adding Tech Stack open Section -->
-
 <b>🛠 Tech Stack/ Certifications</b><br>
 
 <table>
-  <!--- Languages goes here -->
-  <tr>
+  <tr> <!--- Languages goes here -->
     <td style="vertical-align: middle;"><b>Languages : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30" title="Python"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="30" title="Bash"></td>
@@ -35,8 +33,7 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="30" title="PHP"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" title="GO"></td>
   </tr>
-  <!--- Frameworks and Libraries goes here -->
-  <tr>
+  <tr> <!--- Frameworks and Libraries goes here -->
     <td style="vertical-align: middle;"><b>Frameworks and Libraries : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="30" title="NodeJS"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="30" title="React"></td>
@@ -48,13 +45,20 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="30" title="AWS"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="30" title="Azure"></td>
   </tr>
+  <tr> <!--- Tools and Platforms goes here -->
+    <td style="vertical-align: middle;"><b>Tools and Platforms : </b></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="30" title="Linux"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" title="Git"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" title="Postman"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30" title="VSCode"></td>
+    <td><img src="https://www.streamlinehq.com/icons/download/tryhackme--31088" width="30" title="TryHackMe"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="30" title="Selenium"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="30" title="Docker"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="30" title="AWS"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="30" title="Azure"></td>
+  </tr>
 </table>
 
-
-Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
-<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat">&nbsp;&nbsp;<br>
 Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
