@@ -14,13 +14,11 @@
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](LinkedIn) or 🌱 [WriteUps](Blogs)<br>
-📫 How to reach me: Send an [Email](https://blog.recodehive.com/topmate) or message me on [Discord](https://dev.recodehive.com/sub)<br>
+📫 How to reach me: Send an [Email](email) or message me on [Discord](discord)<br>
 👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
-💬 Knowledge Exchange: Let's discuss Zero-day Research, Privilege Escalation, or Network Pivoting.<br>
-<!--- Adding Tech Stack open Section -->
+💬 Knowledge Exchange: Let's discuss Zero-day Research, Privilege Escalation, ...<br>
 
-- 👯 **Seeking Synergy:** Looking to join elite **CTF Teams** or contribute to **Offensive Security** open-source tools.
-- 💬 **Knowledge Exchange:** Let's discuss **Zero-day Research, Privilege Escalation**, or **Network Pivoting**.
+<!--- Adding Tech Stack open Section -->
 
 <b>🛠 Tech Stack/ Certifications</b><br><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
