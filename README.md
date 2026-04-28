@@ -39,16 +39,12 @@
   <tr>
     <td style="vertical-align: middle;"><b>Frameworks and Libraries : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="30" title="NodeJS"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="30" title="ExpressJS"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="30" title="React"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" width="30" title="VueJS"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="30" title="Django"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="30" title="Flask"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="30" title="Laravel"></td>
     <td><img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy/graphics/scapy_logo.png" width="30" title="Scapy"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="30" title="Selenium"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="30" title="Docker"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="30" title="Firebase"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="30" title="AWS"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="30" title="Azure"></td>
   </tr>
