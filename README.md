@@ -5,20 +5,22 @@
   <a href="LinkedIn">LinkedIn</a> -
   <a href="TryHackMe">TryHackMe</a> - 
   <a href="HackTheBox">HackTheBox</a> -
-  <a href="Bolgs">WriteUps</a> -
+  <a href="Blogs">WriteUps</a> -
   <a href="Certifications">Credly</a> -
   <a href="Email">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Data Engineer | Prev. PM @girlscript <br>
-⚡ Check my ✨ [Website](https://dev.recodehive.com/webs) or 🌱 [eBook](https://dev.recodehive.com/book)<br>
-📫 How to reach me: [Schedule Call](https://blog.recodehive.com/topmate) or Join  [Newsletter](https://dev.recodehive.com/sub)<br>
-👯 Join my opensource community [recodehive](https://i.recodehive.com/join)<br>
-💬 Ask me about SEO/Data Science.<br>
+✨ Penetration Tester | IT Graduate @ Mansoura University <br>
+⚡ Check my ✨ [LinkedIn](LinkedIn) or 🌱 [WriteUps](Blogs)<br>
+📫 How to reach me: Send an [Email](https://blog.recodehive.com/topmate) or message me on [Discord](https://dev.recodehive.com/sub)<br>
+👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
+💬 Knowledge Exchange: Let's discuss Zero-day Research, Privilege Escalation, or Network Pivoting.<br>
 <!--- Adding Tech Stack open Section -->
 
+- 👯 **Seeking Synergy:** Looking to join elite **CTF Teams** or contribute to **Offensive Security** open-source tools.
+- 💬 **Knowledge Exchange:** Let's discuss **Zero-day Research, Privilege Escalation**, or **Network Pivoting**.
 
 <b>🛠 Tech Stack/ Certifications</b><br><br>
 Languages: <img src="https://img.shields.io/badge/-python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
