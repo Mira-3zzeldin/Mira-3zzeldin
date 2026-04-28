@@ -11,7 +11,7 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="Main_Pic.svg" min-width="300px" max-width="300px" width="300px" align="right"> 
+👨🏻‍💻 **About Me**<img src="Main_Pic.svg" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](LinkedIn) or 🌱 [WriteUps](Blogs)<br>
 📫 How to reach me : Send an [Email](email) or message me on [Discord](discord)<br>
@@ -24,36 +24,36 @@
 <table border="0" style="border-collapse: collapse; border: none; border-color: transparent;">
   <tr> <!--- Languages goes here -->
     <td style="vertical-align: middle;"><b>Languages : </b></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30" title="Python"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="30" title="Bash"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="30" title="JavaScript"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="30" title="MySQL"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="30" title="C"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="30" title="CPP"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="30" title="PHP"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" title="GO"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="20" title="Python"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="20" title="Bash"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="20" title="JavaScript"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="20" title="MySQL"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="20" title="C"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="20" title="CPP"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="20" title="PHP"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="20" title="GO"></td>
   </tr>
-  <tr> <!--- Frameworks and Libraries goes here -->
+  <tr> <!--- Frameworks & Libraries goes here -->
     <td style="vertical-align: middle;"><b>Frameworks and Libraries : </b></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="30" title="NodeJS"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="30" title="React"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="30" title="Django"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="30" title="Laravel"></td>
-    <td><img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy/graphics/scapy_logo.png" width="30" title="Scapy"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="30" title="Selenium"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="30" title="Docker"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="30" title="AWS"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="20" title="NodeJS"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="20" title="React"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="20" title="Django"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="20" title="Laravel"></td>
+    <td><img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy/graphics/scapy_logo.png" width="20" title="Scapy"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="20" title="Selenium"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="20" title="Docker"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="20" title="AWS"></td>
   </tr>
   <tr> <!--- Tools and Platforms goes here -->
     <td style="vertical-align: middle;"><b>Tools and Platforms : </b></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="30" title="Kali-Linux"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" title="Git"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" title="Postman"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30" title="VSCode"></td>
-    <td><img src="https://friconix.com/jpg/fi-snsuxx-tryhackme.jpg" width="30" title="TryHackMe"></td>
-    <td><img src="https://cdn.brandfetch.io/id-M19oKfL/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="30" title="HackTheBox"></td>
-    <td><img src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit.svg" width="30" title="Metasploit"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" width="30" title="Wireshark"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="20" title="Kali-Linux"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="20" title="Git"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="20" title="Postman"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="20" title="VSCode"></td>
+    <td><img src="https://friconix.com/jpg/fi-snsuxx-tryhackme.jpg" width="20" title="TryHackMe"></td>
+    <td><img src="https://cdn.brandfetch.io/id-M19oKfL/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" title="HackTheBox"></td>
+    <td><img src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit.svg" width="20" title="Metasploit"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" width="20" title="Wireshark"></td>
   </tr>
 </table><br><br>
 
