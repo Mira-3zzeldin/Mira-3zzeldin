@@ -2,12 +2,11 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://dev.recodehive.com/webs">Portfolios</a> -
-  <a href="https://dev.recodehive.com/link">LinkedIn</a> - 
-  <a href="https://dev.recodehive.com/tweet">Twitter</a> -
-  <a href="https://dev.recodehive.com/webz">Website</a> -
-  <a href="https://learn.recodehive.com/crowds">Google Featured</a> -
-  <a href="https://blog.recodehive.com/topmate">Contact me.</a> 
+  <a href="LINK_HERE" target="blank"><img align="center" src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="LINK_HERE" target="blank"><img align="center" src="https://shields.io" alt="TryHackMe" /></a>
+  <a href="LINK_HERE" target="blank"><img align="center" src="https://shields.io" alt="HackTheBox" /></a>
+  <a href="LINK_HERE" target="blank"><img align="center" src="https://shields.io" alt="Writeups" /></a>
+  <a href="LINK_HERE" target="blank"><img align="center" src="https://shields.io" alt="Certifications" /></a>
 </p>
 
 -----------------------------------------------------------
