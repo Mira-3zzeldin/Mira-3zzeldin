@@ -26,9 +26,13 @@
   <tr>
     <td style="vertical-align: middle;"><b>Languages : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30" title="Python"></td>
-    <td><img src="https://githubusercontent.com" width="30" title="JavaScript"></td>
-    <td><img src="https://githubusercontent.com" width="30" title="HTML5"></td>
-    <td><img src="https://githubusercontent.com" width="30" title="CSS3"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="30" title="Bash"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="30" title="JavaScript"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="30" title="MySQL"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="30" title="C"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="30" title="CPP"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="30" title="PHP"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" title="GO"></td>
   </tr>
 </table>
 
