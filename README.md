@@ -53,9 +53,8 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30" title="VSCode"></td>
     <td><img src="https://friconix.com/jpg/fi-snsuxx-tryhackme.jpg" width="30" title="TryHackMe"></td>
     <td><img src="https://cdn.brandfetch.io/id-M19oKfL/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="30" title="HackTheBox"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="30" title="Docker"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="30" title="AWS"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="30" title="Azure"></td>
+    <td><img src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit.svg" width="30" title="Metasploit"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" width="30" title="Wireshark"></td>
   </tr>
 </table>
 
