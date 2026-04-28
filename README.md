@@ -45,7 +45,7 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="20" title="AWS"></td>
   </tr>
   <tr> <!--- Tools and Platforms goes here -->
-    <td style="vertical-align: middle;"><b>Tools and Platforms : </b></td>
+    <td style="vertical-align: middle;"><b>Platforms : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="20" title="Kali-Linux"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="20" title="Git"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="20" title="Postman"></td>
