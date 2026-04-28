@@ -55,7 +55,7 @@
     <td><img src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit.svg" width="30" title="Metasploit"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" width="30" title="Wireshark"></td>
   </tr>
-</table>
+</table><br><br>
 
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
