@@ -11,7 +11,7 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="300px" align="right"> 
 ✨ Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](LinkedIn) or 🌱 [WriteUps](Blogs)<br>
 📫 How to reach me : Send an [Email](email) or message me on [Discord](discord)<br>
