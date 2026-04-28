@@ -21,7 +21,7 @@
 <!--- Adding Tech Stack open Section -->
 <b>🛠 Tech Stack/ Certifications</b><br>
 
-<table>
+<table border="0">
   <tr> <!--- Languages goes here -->
     <td style="vertical-align: middle;"><b>Languages : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30" title="Python"></td>
@@ -43,11 +43,10 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="30" title="Selenium"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="30" title="Docker"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="30" title="AWS"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="30" title="Azure"></td>
   </tr>
   <tr> <!--- Tools and Platforms goes here -->
     <td style="vertical-align: middle;"><b>Tools and Platforms : </b></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="30" title="Linux"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="30" title="Kali-Linux"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" title="Git"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" title="Postman"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30" title="VSCode"></td>
@@ -57,14 +56,6 @@
     <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" width="30" title="Wireshark"></td>
   </tr>
 </table>
-
-Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
-<img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
-<!---<img src="https://img.shields.io/badge/-Android Studio-green?logo=Android&logoColor=white&style=flat"> &nbsp;
-<img src="https://img.shields.io/badge/-Jupyter-D7522D?logo=Jupyter&logoColor=white&style=flat">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/-PyCharm-1ECE87?logo=pycharm&logoColor=white&style=flat"> -->
-<!--- <img src="https://img.shields.io/badge/-TensorFlow-F78900?logo=Tensorflow&logoColor=white&style=flat"> -->
 
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
