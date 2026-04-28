@@ -51,7 +51,7 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" title="Git"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" title="Postman"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30" title="VSCode"></td>
-    <td><img src="https://www.streamlinehq.com/icons/download/tryhackme--31088" width="30" title="TryHackMe"></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQklmSvka5snHoHw145ZpEL9xEO_8tSwq86HQ&s" width="30" title="TryHackMe"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="30" title="Selenium"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="30" title="Docker"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="30" title="AWS"></td>
