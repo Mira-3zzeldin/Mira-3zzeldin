@@ -34,14 +34,20 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="30" title="PHP"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" title="GO"></td>
   </tr>
+  <tr>
+    <td style="vertical-align: middle;"><b>Frameworks and Libraries : </b></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="30" title="NodeJS"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="30" title="ExpressJS"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="30" title="JavaScript"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="30" title="MySQL"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="30" title="C"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="30" title="CPP"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="30" title="PHP"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" title="GO"></td>
+  </tr>
 </table>
 
 
-Languages: <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30" height="30">&nbsp;
-<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
-<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat"> &nbsp; 
-<img src="https://img.shields.io/badge/-R-0E7ACE?logo=r&logoColor=white&style=flat"> &nbsp;<br>
 Frameworks and Libraries: <!--- Frameworks and Libraries goes here -->
 <img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat">&nbsp;
