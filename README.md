@@ -21,7 +21,7 @@
 <!--- Adding Tech Stack open Section -->
 <b>🛠 Tech Stack/ Certifications</b><br>
 
-<table border="0">
+<table border="2">
   <tr> <!--- Languages goes here -->
     <td style="vertical-align: middle;"><b>Languages : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30" title="Python"></td>
