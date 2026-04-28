@@ -52,7 +52,7 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" title="Postman"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="30" title="VSCode"></td>
     <td><img src="https://friconix.com/jpg/fi-snsuxx-tryhackme.jpg" width="30" title="TryHackMe"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="30" title="Selenium"></td>
+    <td><img src="https://cdn.brandfetch.io/id-M19oKfL/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="30" title="HackTheBox"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="30" title="Docker"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="30" title="AWS"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="30" title="Azure"></td>
