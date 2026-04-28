@@ -34,7 +34,7 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="20" title="GO"></td>
   </tr>
   <tr> <!--- Frameworks & Libraries goes here -->
-    <td style="vertical-align: middle;"><b>Frameworks & Libraries : </b></td>
+    <td style="vertical-align: middle;"><b>Frameworks : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="20" title="NodeJS"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="20" title="React"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="20" title="Django"></td>
