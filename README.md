@@ -2,11 +2,12 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="LINK_HERE" target="blank"><img align="center" src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="LINK_HERE" target="blank"><img align="center" src="https://shields.io" alt="TryHackMe" /></a>
-  <a href="LINK_HERE" target="blank"><img align="center" src="https://shields.io" alt="HackTheBox" /></a>
-  <a href="LINK_HERE" target="blank"><img align="center" src="https://shields.io" alt="Writeups" /></a>
-  <a href="LINK_HERE" target="blank"><img align="center" src="https://shields.io" alt="Certifications" /></a>
+  <a href="LinkedIn">LinkedIn</a> -
+  <a href="TryHackMe">TryHackMe</a> - 
+  <a href="HackTheBox">HackTheBox</a> -
+  <a href="Bolgs">WriteUps</a> -
+  <a href="Certifications">Credly</a> -
+  <a href="Email">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
