@@ -21,6 +21,18 @@
 <!--- Adding Tech Stack open Section -->
 
 <b>🛠 Tech Stack/ Certifications</b><br><br>
+
+<table border="0">
+  <tr>
+    <td style="vertical-align: middle;"><b>Languages : </b></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30" title="Python"></td>
+    <td><img src="https://githubusercontent.com" width="30" title="JavaScript"></td>
+    <td><img src="https://githubusercontent.com" width="30" title="HTML5"></td>
+    <td><img src="https://githubusercontent.com" width="30" title="CSS3"></td>
+  </tr>
+</table>
+
+
 Languages: <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30" height="30">&nbsp;
 <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
