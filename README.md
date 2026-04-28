@@ -23,6 +23,7 @@
 <b>🛠 Tech Stack/ Certifications</b><br>
 
 <table>
+  <!--- Languages goes here -->
   <tr>
     <td style="vertical-align: middle;"><b>Languages : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="30" title="Python"></td>
@@ -34,16 +35,22 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="30" title="PHP"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" title="GO"></td>
   </tr>
+  <!--- Frameworks and Libraries goes here -->
   <tr>
     <td style="vertical-align: middle;"><b>Frameworks and Libraries : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="30" title="NodeJS"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="30" title="ExpressJS"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="30" title="JavaScript"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="30" title="MySQL"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="30" title="C"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="30" title="CPP"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="30" title="PHP"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="30" title="GO"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="30" title="React"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" width="30" title="VueJS"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="30" title="Django"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="30" title="Flask"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="30" title="Laravel"></td>
+    <td><img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy/graphics/scapy_logo.png" width="30" title="Scapy"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="30" title="Selenium"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="30" title="Docker"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="30" title="Firebase"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="30" title="AWS"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" width="30" title="Azure"></td>
   </tr>
 </table>
 
