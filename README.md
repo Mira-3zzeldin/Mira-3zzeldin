@@ -55,20 +55,30 @@
     <td><img src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit.svg" width="20" title="Metasploit"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" width="20" title="Wireshark"></td>
   </tr>
-</table><br><br>
+</table><br>
 
 ## Certification Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.au">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
 <a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hand-on%20Snowflake.png" width="115px" height="108px" />
+<img src="https://images.credly.com/size/340x340/images/a49be93a-34ff-4224-996c-b2c976a5dc9d/blob" width="100px" />
 <a href="#">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/Hands-on%20collab.png" width="110px" height="108px" />
-<a href="https://www.credly.com/badges/2d4bc39d-f0d9-4c01-9a34-451044850f9b/public_url">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/GitHub%20Foundation.png" width="100px" height="105px" />
-<a href="https://www.credly.com/badges/21b16046-9856-4432-b4e3-408f9a6e71bb/public_url">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/github-copilot.png" width="105px" height="105px" />
+<img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="100px" />
+<a href="#">
+<img src="https://images.credly.com/images/9f3a0aa9-ad62-4687-9b11-ddb626259fe2/CompTIA_Network_2B.png" width="100px" />
+<a href="#">
+<img src="https://images.credly.com/size/340x340/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" width="100px" />
+<a href="#">
+<img src="https://images.credly.com/images/9da17576-0461-4493-95d8-184f77fa2677/MTA-Windows_Operating_System_Fundamentals.png" width="100px" />
+<a href="#">
+<img src="https://images.credly.com/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png" width="100px" />
+<a href="#">
+<img src="https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="100px" />
+<a href="#">
+<img src="https://images.credly.com/images/c5cd3cdf-b652-4ef5-9f34-794dff0623a3/blob" width="100px" />
+<a href="#">
+<img src="https://images.credly.com/images/488fb21c-b480-4002-9f86-dba37bee7169/image.png" width="100px" />
+<a href="#">
+<img src="https://images.credly.com/size/340x340/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" width="100px" />
 </div>
 
 
