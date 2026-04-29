@@ -11,7 +11,7 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="Main_Pic.svg" min-width="300px" max-width="300px" width="320px" align="right"> 
+👨🏻‍💻 **About Me**<img src="Main_Pic.jpg" min-width="300px" max-width="300px" width="320px" align="right"> 
 ✨ Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](LinkedIn) or 🌱 [WriteUps](Blogs)<br>
 📫 How to reach me : Send an [Email](email) or message me on [Discord](discord)<br>
