@@ -92,122 +92,23 @@ I document my learning journey and security findings here. <a href="#">( WriteUp
 </blockquote>
 </details>
 
-<!--
-<!--- 2nd Section on GitHub Analytics -->
-  <details>	
-<summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sanjay-kv">
-  <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V GitHub Profile Details" />
-  <img style="height: 210px; width: 38%;" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V GitHub Stats" />
-</a>
-<!--- 3rd Section on Recent Projects -->
-</details> 
--->
-
-<!--
-  <details>	
-    <summary><b>📚 Recent Projects/ Activity</b></summary><br>
-
-  ✨ [Semi Supervised Sequence Learning - LSTM](https://github.com/sanjay-kv/Semi-supervised-sequence-learning-Project)<br>
-  ✨ [Stack overflow Data Analysis of last 3 years.](https://github.com/sanjay-kv/Stackoverflow-Analysis)<br>
-  ✨ [Personal Portfolio page - Neomorphism Design](https://github.com/sanjay-kv/Portfolio-sanjay)<br> 
-  ✨ [Opensource contributor @recodehive.](https://github.com/recodehive)<br>
-  ✨ [Twitter Tweets Scrapping and Sentiment Analysis](https://github.com/sanjay-kv/Twitter-Tweet-Analysis)<br>
-
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-2. 💪 Opened PR [#3](https://github.com/sanjay-kv/sanjay-kv/pull/3) in [sanjay-kv/sanjay-kv](https://github.com/sanjay-kv/sanjay-kv)
-3. 🎉 Merged PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-4. 💪 Opened PR [#18](https://github.com/sanjay-kv/Stackoverflow-Analysis/pull/18) in [sanjay-kv/Stackoverflow-Analysis](https://github.com/sanjay-kv/Stackoverflow-Analysis)
-5. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
-  <!--END_SECTION:activity-->
-  </details> 
--->
-
-<!--
-  <details>	
-    <summary><b>📈 Get my Code stats</b></summary><br>
-<!--START_SECTION:waka-->
-<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)-->
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1690 commits        ████████░░░░░░░░░░░░░░░░░   32.94 % 
-🌆 Daytime                2078 commits        ██████████░░░░░░░░░░░░░░░   40.51 % 
-🌃 Evening                869 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌙 Night                  493 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   904 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
-Tuesday                  1332 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-Wednesday                1042 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Thursday                 328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Friday                   300 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Saturday                 435 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Sunday                   789 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               16 hrs 10 mins      ████████████████████░░░░░   80.11 % 
-CSS                      2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-C++                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-
-🔥 Editors: 
-VS Code                  20 hrs 11 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-gssoc-website-new        8 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   41.19 % 
-Socials-Winter-Of-Code   1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Frontend - Copy          1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Error-frontend           1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-Backend                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-
-💻 Operating System: 
-Windows                  20 hrs 11 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               21 repos            ███████████░░░░░░░░░░░░░░   45.65 % 
-HTML                     8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-ASP.NET                  1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-```
-[![Sanjay Viswanathan profile views](https://u8views.com/api/v1/github/profiles/30715153/views/day-week-month-total-count.svg)](https://u8views.com/github/sanjay-kv)
-<!--END_SECTION:waka-->
-   </details> 
--->
-
-<!--- Footer Stats - Adding the Social Media Status count-->
+<!--- Footer Stats - Adding the Social Media Status count -->
 <div align="center">
 
 ### 🛠️ System Connectivity Status
-`Connection: Established` | `Secure: Yes` | `User: Mira-3zzeldin` | `Location: Egypt`
-<br>
-![Profile Views](Link)
+` Connection: Established ` | ` Secure: Yes ` | ` User: Mira-3zzeldin ` | ` Location: Egypt `
+<br><br>
+![Profile Views](Link) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Follow Me](Link)](Link)
-<br> **"Security is not a product, but a process."** — Bruce Schneier <br>
+<br><br> **"Security is not a product, but a process."**, Bruce Schneier <br><br>
 <a href="LinkedIn">
-  <img src="https://shields.io" />
+  <img src="large/colored/linkedin.svg" width="30" title="LinkedIn"></td>
 </a> 
 <a href="Twiter">
-  <img src="https://shields.io" />
+  <img src="large/colored/twitter.svg" width="30" title="Twitter"></td>
 </a>
 <a href="Discord">
-  <img src="https://shields.io" />
+  <img src="large/colored/discord.svg" width="30" title="Discord"></td>
 </a>
 <br><br>
 **[ 🏁 End of Session ]**
