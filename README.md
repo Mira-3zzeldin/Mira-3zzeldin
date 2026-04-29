@@ -97,19 +97,13 @@ I document my learning journey and security findings here. <a href="#">( WriteUp
 
 ### 🛠️ System Connectivity Status
 ` Connection: Established ` | ` Secure: Yes ` | ` User: Mira-3zzeldin ` | ` Location: Egypt `
-<br><br>
-![Profile Views](Link) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Follow Me](Link)](Link)
 <br><br> **"Security is not a product, but a process."**, Bruce Schneier <br><br>
 <a href="LinkedIn">
-  <img src="large/colored/linkedin.svg" width="30" title="LinkedIn"></td>
-</a> 
+  <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" width="30" title="LinkedIn"></a>&nbsp;&nbsp;
 <a href="Twiter">
-  <img src="large/colored/twitter.svg" width="30" title="Twitter"></td>
-</a>
+  <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg" width="30" title="Twitter"></a>&nbsp;&nbsp;
 <a href="Discord">
-  <img src="large/colored/discord.svg" width="30" title="Discord"></td>
-</a>
+  <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg" width="30" title="Discord"></a>
 <br><br>
 **[ 🏁 End of Session ]**
 </div>
