@@ -58,7 +58,7 @@
 </table><br>
 
 ## Certification Badges 🪶
-<div style='display:flex; align-items:center; gap:20px;' align='center'>
+<div style='display:flex; align-items:center; gap:20px;'>
 <a href="#">
 <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="75px" />
 <a href="#">
@@ -77,7 +77,7 @@
 <img src="https://images.credly.com/images/488fb21c-b480-4002-9f86-dba37bee7169/image.png" width="75px" />
 <a href="#">
 <img src="https://images.credly.com/size/340x340/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" width="75px" />
-</div>
+</div><br>
 
 
 <details>	
