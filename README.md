@@ -83,7 +83,7 @@
 <details><summary>
 <b>📝 Security Write-ups & Articles</b></summary>
 <blockquote>
-I document my learning journey and security findings here.<a href="#">WriteUps</a><br>
+I document my learning journey and security findings here. <a href="#">( WriteUps )</a><br><br>
   <b>Below are some of my recent write-ups:👇</b><br>
   <a href="#">📘 Building a Custom Network Scanner with Python & Scapy</a><br>
   <a href="#">📒 Exploiting Insecure Deserialization: From Theory to Lab</a><br>
@@ -92,6 +92,7 @@ I document my learning journey and security findings here.<a href="#">WriteUps</
 </blockquote>
 </details>
 
+<!--
 <!--- 2nd Section on GitHub Analytics -->
   <details>	
 <summary><b>⚙️ GitHub Analytics</b></summary>
@@ -101,6 +102,9 @@ I document my learning journey and security findings here.<a href="#">WriteUps</
 </a>
 <!--- 3rd Section on Recent Projects -->
 </details> 
+-->
+
+<!--
   <details>	
     <summary><b>📚 Recent Projects/ Activity</b></summary><br>
 
@@ -118,7 +122,9 @@ I document my learning journey and security findings here.<a href="#">WriteUps</
 5. 🎉 Merged PR [#3](https://github.com/sanjay-kv/Sanjay-K-V-resume/pull/3) in [sanjay-kv/Sanjay-K-V-resume](https://github.com/sanjay-kv/Sanjay-K-V-resume)
   <!--END_SECTION:activity-->
   </details> 
+-->
 
+<!--
   <details>	
     <summary><b>📈 Get my Code stats</b></summary><br>
 <!--START_SECTION:waka-->
@@ -183,26 +189,29 @@ ASP.NET                  1 repo              █░░░░░░░░░░�
 [![Sanjay Viswanathan profile views](https://u8views.com/api/v1/github/profiles/30715153/views/day-week-month-total-count.svg)](https://u8views.com/github/sanjay-kv)
 <!--END_SECTION:waka-->
    </details> 
+-->
 
 <!--- Footer Stats - Adding the Social Media Status count-->
- <p align="left">  
-<img src="https://enct8yvqkgdbon1.m.pipedream.net" alt="Total Github views" />&nbsp;&nbsp;</a>
-<a href="https://twitter.com/sanjay_kv_"><img src="https://img.shields.io/twitter/follow/sanjay_k_v?label=Follow%20Me&style=social"></a>
-<a href=""><img src="https://img.shields.io/twitch/status/sanjay_kv?style=social"></a>
-<a href=""><img src="https://img.shields.io/github/stars/sanjay-kv?label=Star%20Gazers&style=social"></a>
-<a href="https://discord.gg/cFvgmmrs">
-  <img src="https://discord.com/api/guilds/1231112132595028008/widget.png?style=shield">
+<div align="center">
+
+### 🛠️ System Connectivity Status
+`Connection: Established` | `Secure: Yes` | `User: Mira-3zzeldin` | `Location: Egypt`
+<br>
+![Profile Views](Link)
+[![Follow Me](Link)](Link)
+<br> **"Security is not a product, but a process."** — Bruce Schneier <br>
+<a href="LinkedIn">
+  <img src="https://shields.io" />
+</a> 
+<a href="Twiter">
+  <img src="https://shields.io" />
 </a>
-<a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
-<a href="https://www.youtube.com/channel/UCzyGIdENFVT36Yx4zTws4kw/?sub_confirmation=1"><img src="https://img.shields.io/youtube/channel/views/UCzyGIdENFVT36Yx4zTws4kw?style=social"></a>
-</p>
+<a href="Discord">
+  <img src="https://shields.io" />
+</a>
+<br><br>
+**[ 🏁 End of Session ]**
+</div>
 
-
-<!--
-<a href=""><img src="https://img.shields.io/github/followers/sanjay-kv?style=social"></a>
--->
-<p align="center">
-Do you want to contact me for collaboration opportunities? ⟶ <a href="https://event.recodehive.com/git">Contact Details</a><br>
-<b> Show some ❤️ by starring some of the repositories!.</p> </div>
 <!--- Footer End -->
 <!--- Body End -->
