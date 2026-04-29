@@ -99,9 +99,9 @@ I document my learning journey and security findings here. <a href="#">( WriteUp
 ` Connection: Established ` | ` Secure: Yes ` | ` User: Mira-3zzeldin ` | ` Location: Egypt `
 <br><br> **"Security is not a product, but a process."**, Bruce Schneier <br><br>
 <a href="LinkedIn">
-  <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" width="30" title="LinkedIn"></a>&nbsp;&nbsp;
+  <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" width="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Twiter">
-  <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg" width="30" title="Twitter"></a>&nbsp;&nbsp;
+  <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg" width="30" title="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Discord">
   <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg" width="30" title="Discord"></a>
 <br><br>
