@@ -2,7 +2,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="LinkedIn">LinkedIn</a> -
+  <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">LinkedIn</a> -
   <a href="TryHackMe">TryHackMe</a> - 
   <a href="HackTheBox">HackTheBox</a> -
   <a href="Blogs">WriteUps</a> -
