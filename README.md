@@ -82,12 +82,12 @@
 <!--- 1st Section on Curated Articles -->
 <details><summary>
 <b>📝 Security Write-ups & Articles</b></summary>
-<blockquote><br>
-I document my learning journey and security findings here.[WriteUps](WriteUps)
-<br><b>Below are some of my recent write-ups:👇</b><br>
+<blockquote>
+I document my learning journey and security findings here.<a href="#">WriteUps</a><br>
+  <b>Below are some of my recent write-ups:👇</b><br>
   <a href="#">📘 Building a Custom Network Scanner with Python & Scapy</a><br>
   <a href="#">📒 Exploiting Insecure Deserialization: From Theory to Lab</a><br>
-  <a href="#">📙 HackTheBox Write-up: Advanced Linux Privilege Escalation</a><br>
+  <a href="#">📙 HackTheBox Write-up: Advanced Linux Privilege Escalation</a><br><br>
   <a href="#">➡️ Explore more posts ...</a><br>
 </blockquote>
 </details>
