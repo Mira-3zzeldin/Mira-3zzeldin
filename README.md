@@ -58,25 +58,16 @@
 </table><br>
 
 ## Certification Badges 🪶
-<div style='display:flex; justify-content:center; align-items:center; gap:20px;'>
-<a href="#">
-<img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="75px" />
-<a href="#">
-<img src="https://images.credly.com/images/9f3a0aa9-ad62-4687-9b11-ddb626259fe2/CompTIA_Network_2B.png" width="75px" />
-<a href="#">
-<img src="https://images.credly.com/size/340x340/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" width="75px" />
-<a href="#">
-<img src="https://images.credly.com/images/9da17576-0461-4493-95d8-184f77fa2677/MTA-Windows_Operating_System_Fundamentals.png" width="75px" />
-<a href="#">
-<img src="https://images.credly.com/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png" width="75px" />
-<a href="#">
-<img src="https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="75px" />
-<a href="#">
-<img src="https://images.credly.com/images/c5cd3cdf-b652-4ef5-9f34-794dff0623a3/blob" width="75px" />
-<a href="#">
-<img src="https://images.credly.com/images/488fb21c-b480-4002-9f86-dba37bee7169/image.png" width="75px" />
-<a href="#">
-<img src="https://images.credly.com/size/340x340/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" width="75px" />
+<div style='display:flex; align-items:center;' align='center'>
+<a href="#"><img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="75px" style="margin: 10px;" />
+<a href="#"><img src="https://images.credly.com/images/9f3a0aa9-ad62-4687-9b11-ddb626259fe2/CompTIA_Network_2B.png" width="75px" style="margin: 10px;" />
+<a href="#"><img src="https://images.credly.com/size/340x340/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" width="75px" style="margin: 10px;" />
+<a href="#"><img src="https://images.credly.com/images/9da17576-0461-4493-95d8-184f77fa2677/MTA-Windows_Operating_System_Fundamentals.png" width="75px" style="margin: 10px;" />
+<a href="#"><img src="https://images.credly.com/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png" width="75px" style="margin: 10px;" />
+<a href="#"><img src="https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="75px" style="margin: 10px;" />
+<a href="#"><img src="https://images.credly.com/images/c5cd3cdf-b652-4ef5-9f34-794dff0623a3/blob" width="75px" style="margin: 10px;" />
+<a href="#"><img src="https://images.credly.com/images/488fb21c-b480-4002-9f86-dba37bee7169/image.png" width="75px" style="margin: 10px;" />
+<a href="#"><img src="https://images.credly.com/size/340x340/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" width="75px" style="margin: 10px;" />
 </div><br><br>
 
 
