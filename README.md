@@ -7,7 +7,7 @@
   <a href="HackTheBox">HackTheBox</a> -
   <a href="Blogs">WriteUps</a> -
   <a href="Certifications">Credly</a> -
-  <a href="Email">Contact me.</a> 
+  <a href="mailto:mira3zzeldin@gmail.com">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
