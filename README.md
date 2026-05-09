@@ -14,8 +14,8 @@
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right"> : Penetration Tester | IT Graduate @ Mansoura University <br>
-⚡ Check my ✨ [LinkedIn](LinkedIn) or 🌱 [WriteUps](Blogs)<br>
-📫 How to reach me : Send an [Email](email) or message me on [Discord](discord)<br>
+⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira-ezz-eldin-529263407/) or 🌱 [WriteUps](Medium)<br>
+📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on [Discord](discord)<br>
 👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
 💬 Knowledge Exchange: Let's discuss Web Sec, PrivEsc, and CTF Writeups.<br><br>
 
@@ -58,32 +58,63 @@
   </tr>
 </table><br>
 
-<details>
-  <summary><b>🎓 Professional Knowledge Base (Certifications Path) 🪶</b></summary>
-  <br>
-  <blockquote>
-    <i>"Finished the full curriculum for the following certifications, preparing for the official exams."</i>
-  </blockquote>
+<details open>
+<summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
+<br>
 
-  <table border="0">
-    <tr>
-      <td align="center"><b>Infrastructure</b><br><br>
-        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="A+ (Completed)"> 
-        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="Linux+ (Completed)">
-        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="MTA (Completed)">
-      </td>
-      <td align="center"><b>Networking</b><br><br>
-        <img src="" width="50" title="Network+ (Completed)">
-        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="CCNA (Completed)">
-        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="CCNP (In Progress)">
-      </td>
-      <td align="center"><b>Security</b><br><br>
-        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="Wireshark Analyst">
-        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="Palo Alto PCNSA">
-        <!-- هنا هتضيفي شهادات السكيورتي الجديدة -->
-      </td>
-    </tr>
-  </table>
+<!-- Phase 0 -->
+<h3>📍 Phase 0: IT & Networking Fundamentals</h3>
+<p><b>Status:</b> ![100%](https://progress-bar.xyz)</p>
+<table>
+  <tr>
+    <td><b>Certifications</b></td>
+    <td>CompTIA A+, Network+, ITF+ (Mike Meyers & Mike Chapple)</td>
+  </tr>
+  <tr>
+    <td><b>Practical Labs</b></td>
+    <td>TestOut Labs, Wireshark, Cisco Packet Tracer</td>
+  </tr>
+  <tr>
+    <td><b>Core Concepts</b></td>
+    <td>OS Theory (Silberschatz), Popular Suites (Office, Google Suite)</td>
+  </tr>
+</table>
+
+<!-- Phase 1 -->
+<h3>💻 Phase 1: Operating Systems Mastery</h3>
+<p><b>Status:</b> ![85%](https://progress-bar.xyz)</p>
+<table>
+  <tr>
+    <td><b>🐧 Linux</b></td>
+    <td>CompTIA Linux+, OverTheWire (Bandit), TryHackMe, VMware Labs</td>
+  </tr>
+  <tr>
+    <td><b>🪟 Windows</b></td>
+    <td>MTA 98-349, MD-100 (Windows Client), Microsoft Learn Labs</td>
+  </tr>
+  <tr>
+    <td><b>🍏 macOS</b></td>
+    <td>macOS Terminal & Shell (Kirk McElhearn), Apple Official Guide</td>
+  </tr>
+</table>
+
+<!-- Phase 2 -->
+<h3>🌐 Phase 2: Advanced Networking & Security</h3>
+<p><b>Status:</b> ![50%](https://progress-bar.xyz)</p>
+<table>
+  <tr>
+    <td><b>📡 Cisco</b></td>
+    <td>CCNA (Wendell Odom), CCNP Enterprise (ENCOR & ENARSI) - <i>Lab: EVE-NG</i></td>
+  </tr>
+  <tr>
+    <td><b>🧪 Analysis</b></td>
+    <td><b>WCNA:</b> Wireshark Study Guide, Malware-Traffic-Analysis, CyberDefenders</td>
+  </tr>
+  <tr>
+    <td><b>🔥 Firewall</b></td>
+    <td><b>PCNSA:</b> Palo Alto VM-Series | <b>Fortinet:</b> NSE 1-4 (FortiGate Security)</td>
+  </tr>
+</table>
 </details>
 
 <!--- 1st Section on Curated Articles -->
