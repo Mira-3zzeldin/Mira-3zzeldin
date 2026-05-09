@@ -48,7 +48,7 @@
   <tr> <!--- Infrastructure and Labs goes here -->
     <td style="vertical-align: middle;"><b>Labs & OS : </b></td>
     <td><img src="Tech Stack Icons/TryHackMe Logo.png" width="20" title="TryHackMe"></td>
-    <td><img src="Tech Stack Icons/HackTheBox Logo.png" width="20" title="HackTheBox"></td>
+    <td><img src="Tech Stack Icons/HackTheBox Logo.jpeg" width="20" title="HackTheBox"></td>
     <td><img src="Tech Stack Icons/HackerOne Logo.png" width="20" title="HackerOne"></td>
     <td><img src="Tech Stack Icons/AWS Logo.png" width="20" title="AWS"></td>
     <td><img src="Tech Stack Icons/Linux Logo.png" width="20" title="Linux"></td>
