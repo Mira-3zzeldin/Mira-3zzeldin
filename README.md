@@ -3,27 +3,37 @@
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">LinkedIn</a> -
-  <a href="TryHackMe">TryHackMe</a> - 
-  <a href="HackTheBox">HackTheBox</a> -
-  <a href="HackerOne">HackerOne</a> -
-  <a href="Bugcrowd">Bugcrowd</a> -
-  <a href="Medium">WriteUps</a> -
-  <a href="Certifications">Credly</a> -
-  <a href="mailto:mira3zzeldin@gmail.com">Contact me.</a> 
+  <a href="TryHackMe" target="_blank">TryHackMe</a> - 
+  <a href="HackTheBox" target="_blank">HackTheBox</a> -
+  <a href="HackerOne" target="_blank">HackerOne</a> -
+  <a href="Bugcrowd" target="_blank">Bugcrowd</a> -
+  <a href="Medium" target="_blank">WriteUps</a> -
+  <a href="Certifications" target="_blank">Credly</a> -
+  <a href="mailto:mira3zzeldin@gmail.com" target="_blank">Contact me.</a> 
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right"> 
-✨ Penetration Tester | IT Graduate @ Mansoura University <br>
+👨🏻‍💻 **About Me**<img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right"> Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](LinkedIn) or 🌱 [WriteUps](Blogs)<br>
 📫 How to reach me : Send an [Email](email) or message me on [Discord](discord)<br>
 👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
-💬 Knowledge Exchange: Let's discuss Zero-day Research, Privilege Escalation, ...<br><br>
+💬 Knowledge Exchange: Let's discuss Web Sec, PrivEsc, and CTF Writeups.<br><br>
 
 <!--- Adding Tech Stack open Section -->
 <b>🛠 Tech Stack/ Certifications</b><br>
 
 <table border="0" style="border-collapse: collapse; border: none; border-color: transparent;">
+   <tr> <!--- Security Tools goes here -->
+    <td style="vertical-align: middle;"><b>Security Tools : </b></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="20" title="NodeJS"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="20" title="React"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="20" title="Django"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="20" title="Laravel"></td>
+    <td><img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy/graphics/scapy_logo.png" width="20" title="Scapy"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="20" title="Selenium"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="20" title="Docker"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="20" title="AWS"></td>
+  </tr>
   <tr> <!--- Languages goes here -->
     <td style="vertical-align: middle;"><b>Languages : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="20" title="Python"></td>
@@ -35,19 +45,8 @@
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="20" title="PHP"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="20" title="GO"></td>
   </tr>
-  <tr> <!--- Frameworks & Libraries goes here -->
-    <td style="vertical-align: middle;"><b>Frameworks : </b></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="20" title="NodeJS"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="20" title="React"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="20" title="Django"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="20" title="Laravel"></td>
-    <td><img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy/graphics/scapy_logo.png" width="20" title="Scapy"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="20" title="Selenium"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="20" title="Docker"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="20" title="AWS"></td>
-  </tr>
-  <tr> <!--- Tools and Platforms goes here -->
-    <td style="vertical-align: middle;"><b>Platforms : </b></td>
+  <tr> <!--- Infrastructure and Labs goes here -->
+    <td style="vertical-align: middle;"><b>Labs & OS : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="20" title="Kali-Linux"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="20" title="Git"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="20" title="Postman"></td>
