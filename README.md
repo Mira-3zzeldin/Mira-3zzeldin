@@ -79,8 +79,8 @@
 </table>
 
 <!-- Phase 1 -->
-<br>💻 Phase 1 : Operating Systems Mastery [ Completed : 100% ]<br><br>
-<table>
+<table width="100%">
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">💻 Phase 1 : Operating Systems Mastery [ Completed : 100% ]</th></tr>
   <tr>
     <td><b>🐧 Linux</b></td>
     <td>CompTIA Linux+ ( by Christine Bresnahan & Richard Blum ), OverTheWire : Bandit, VMware : Ubuntu</td>
@@ -96,8 +96,8 @@
 </table>
 
 <!-- Phase 2 -->
-<br>🌐 Phase 2 : Advanced Networking & Security [ In Progress : 50% ]<br><br>
-<table>
+<table width="100%">
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">🌐 Phase 2 : Advanced Networking & Security [ In Progress : 50% ]</th></tr>
   <tr>
     <td><b>📡 Cisco</b></td>
     <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Cisco Packet Tracer, EVE-NG, GNS3</td>
