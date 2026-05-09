@@ -1,19 +1,20 @@
-<h1 align="center"> Hi there, I'm <a href="https://dev.recodehive.com/link">Mira</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">Mira</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/" target="_blank">LinkedIn</a> -
-  <a href="TryHackMe" target="_blank">TryHackMe</a> - 
-  <a href="HackTheBox" target="_blank">HackTheBox</a> -
-  <a href="HackerOne" target="_blank">HackerOne</a> -
-  <a href="Bugcrowd" target="_blank">Bugcrowd</a> -
-  <a href="Medium" target="_blank">WriteUps</a> -
-  <a href="Certifications" target="_blank">Credly</a> -
-  <a href="mailto:mira3zzeldin@gmail.com" target="_blank">Contact me.</a> 
+  <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">LinkedIn</a> -
+  <a href="TryHackMe">TryHackMe</a> - 
+  <a href="HackTheBox">HackTheBox</a> -
+  <a href="HackerOne">HackerOne</a> -
+  <a href="Bugcrowd">Bugcrowd</a> -
+  <a href="Medium">WriteUps</a> -
+  <a href="Certifications">Credly</a> -
+  <a href="mailto:mira3zzeldin@gmail.com">Contact me.</a> 
 </p>
 
 ---------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right"> : Penetration Tester | IT Graduate @ Mansoura University <br>
+<img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right">
+👨🏻‍💻 **About Me** : Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira-ezz-eldin-529263407/) or 🌱 [WriteUps](Medium)<br>
 📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on [Discord](discord)<br>
 👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
