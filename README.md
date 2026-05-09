@@ -62,7 +62,7 @@
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
 <br>
 <!-- Phase 0 -->
-📍 Phase 0 : IT & Networking Fundamentals [100%]
+📍 Phase 0 : IT & Networking Fundamentals [100%]<br>
 <table>
   <tr>
     <td><b>Certifications</b></td>
@@ -79,11 +79,11 @@
 </table>
 
 <!-- Phase 1 -->
-💻 Phase 1 : Operating Systems Mastery [100%]
+<br>💻 Phase 1 : Operating Systems Mastery [100%]<br>
 <table>
   <tr>
     <td><b>🐧 Linux</b></td>
-    <td>CompTIA Linux+ ( by Christine Bresnahan & Richard Blum ), OverTheWire : Bandit - TryHackMe Linux Rooms - TestOut, VMware ( Ubuntu )</td>
+    <td>CompTIA Linux+ ( by Christine Bresnahan & Richard Blum ), OverTheWire : Bandit, TryHackMe, TestOut, VMware : Ubuntu</td>
   </tr>
   <tr>
     <td><b>🪟 Windows</b></td>
@@ -96,19 +96,19 @@
 </table>
 
 <!-- Phase 2 -->
-🌐 Phase 2 : Advanced Networking & Security [50%]
+<br>🌐 Phase 2 : Advanced Networking & Security [50%]<br>
 <table>
   <tr>
     <td><b>📡 Cisco</b></td>
-    <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Practice Platforms : Cisco Packet Tracer, EVE-NG, GNS3</td>
+    <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Practice : Cisco Packet Tracer, EVE-NG, GNS3</td>
   </tr>
   <tr>
     <td><b>🧪 Analysis</b></td>
-    <td><b>WCNA ( by Laura Chappell ), ( Wireshark, VMware ), PCAP ( malware-traffic-analysis.net, cyberdefenders.org ), TryHackMe</td>
+    <td><b>WCNA ( by Laura Chappell ), Wireshark, VMware, malware-traffic-analysis, cyberdefenders, TryHackMe</td>
   </tr>
   <tr>
     <td><b>🔥 Firewall</b></td>
-    <td><b>PCNSA :</b> Palo Alto VM-Series, CyberRange labs, TryHackMe ( Firewall Rooms ) | <b>Fortinet :</b> NSE 1-4 ( FortiGate VM )</td>
+    <td><b>PCNSA :</b> Palo Alto VM-Series, CyberRange, TryHackMe | <b>Fortinet :</b> NSE 1-4 ( FortiGate VM )</td>
   </tr>
 </table>
 </details>
