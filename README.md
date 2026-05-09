@@ -58,17 +58,16 @@
   </tr>
 </table><br>
 
-<details open>
+<details>
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
 <br>
-
 <!-- Phase 0 -->
-<h3>📍 Phase 0: IT & Networking Fundamentals</h3>
-<p><b>Status:</b> ![100%](https://progress-bar.xyz)</p>
+📍 Phase 0 : IT & Networking Fundamentals
+<p><b>Status :</b> ![100%](https://progress-bar.dev)</p>
 <table>
   <tr>
     <td><b>Certifications</b></td>
-    <td>CompTIA A+, Network+, ITF+ (Mike Meyers & Mike Chapple)</td>
+    <td>CompTIA IT Fundamentals+, CompTIA A+, CompTIA Network+ : ( by Mike Meyers )</td>
   </tr>
   <tr>
     <td><b>Practical Labs</b></td>
@@ -76,7 +75,7 @@
   </tr>
   <tr>
     <td><b>Core Concepts</b></td>
-    <td>OS Theory (Silberschatz), Popular Suites (Office, Google Suite)</td>
+    <td>Operating System Concepts ( by Silberschatz ), Popular Suites ( Office, Google Suite )</td>
   </tr>
 </table>
 
