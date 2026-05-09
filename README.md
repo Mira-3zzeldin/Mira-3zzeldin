@@ -62,8 +62,8 @@
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
 <br>
 <!-- Phase 0 -->
-<h5>📍 Phase 0 : IT & Networking Fundamentals [ 100% ]</h5><br><br>
-<table>
+<table width="100%">
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0: IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
   <tr>
     <td><b>Certifications</b></td>
     <td>CompTIA IT Fundamentals+, CompTIA A+, CompTIA Network+ : ( by Mike Meyers )</td>
@@ -79,7 +79,7 @@
 </table>
 
 <!-- Phase 1 -->
-<br><h5>💻 Phase 1 : Operating Systems Mastery [ 100% ]</h5><br><br>
+<br>💻 Phase 1 : Operating Systems Mastery [ Completed : 100% ]<br><br>
 <table>
   <tr>
     <td><b>🐧 Linux</b></td>
@@ -96,7 +96,7 @@
 </table>
 
 <!-- Phase 2 -->
-<br><h5>🌐 Phase 2 : Advanced Networking & Security [ 50% ]</h5><br><br>
+<br>🌐 Phase 2 : Advanced Networking & Security [ In Progress : 50% ]<br><br>
 <table>
   <tr>
     <td><b>📡 Cisco</b></td>
