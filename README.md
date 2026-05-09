@@ -25,14 +25,14 @@
 <table border="0" style="border-collapse: collapse; border: none; border-color: transparent;">
    <tr> <!--- Security Tools goes here -->
     <td style="vertical-align: middle;"><b>Security Tools : </b></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="20" title="NodeJS"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="20" title="React"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="20" title="Django"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="20" title="Laravel"></td>
-    <td><img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy/graphics/scapy_logo.png" width="20" title="Scapy"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" width="20" title="Selenium"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="20" title="Docker"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" width="20" title="AWS"></td>
+    <td><img src="Tech Stack Icons/Burpsuite Logo.png" width="20" title="Burpsuite"></td>
+    <td><img src="Tech Stack Icons/Nmap Logo.png" width="20" title="Nmap"></td>
+    <td><img src="Tech Stack Icons/Metasploit Logo.png" width="20" title="Metasploit"></td>
+    <td><img src="Tech Stack Icons/Wireshark Logo.png" width="20" title="Wireshark"></td>
+    <td><img src="Tech Stack Icons/Kali Linux Logo.png" width="20" title="Kali Linux"></td>
+    <td><img src="Tech Stack Icons/Scapy Logo.png" width="20" title="Scapy"></td>
+    <td><img src="Tech Stack Icons/Postman Logo.png" width="20" title="Postman"></td>
+    <td><img src="Tech Stack Icons/Docker Logo.png" width="20" title="Docker"></td>
   </tr>
   <tr> <!--- Languages goes here -->
     <td style="vertical-align: middle;"><b>Languages : </b></td>
