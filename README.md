@@ -11,8 +11,7 @@
   <a href="Certifications" target="_blank">Credly</a> -
   <a href="mailto:mira3zzeldin@gmail.com" target="_blank">Contact me.</a> 
 </p>
-
------------------------------------------------------------
+<br><hr><br>
 👨🏻‍💻 **About Me**<img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right"> : Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira-ezz-eldin-529263407/) or 🌱 [WriteUps](Medium)<br>
 📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on [Discord](discord)<br>
@@ -60,10 +59,10 @@
 
 <details>
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
-<br>
+<br><br>
 <!-- Phase 0 -->
 <table width="100%">
-  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0: IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0 : IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
   <tr>
     <td><b>Certifications</b></td>
     <td>CompTIA IT Fundamentals+, CompTIA A+, CompTIA Network+ : ( by Mike Meyers )</td>
@@ -99,7 +98,7 @@
 
 <!-- Phase 2 -->
 <table width="100%">
-  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">🌐 Phase 2 : Advanced Networking & Security [ In Progress : 50% ]</th></tr>
+  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">🌐 Phase 2 : Advanced Networking & Security [ In Progress : 85% ]</th></tr>
   <tr>
     <td><b>📡 Cisco</b></td>
     <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Cisco Packet Tracer, EVE-NG, GNS3</td>
@@ -120,8 +119,8 @@
 <details><summary>
 <b>📝 Security Write-ups & Articles</b></summary>
 <blockquote>
-I document my learning journey and security findings here. <a href="#">( WriteUps )</a><br><br>
-  <b>Below are some of my recent write-ups:👇</b><br>
+<br>I document my learning journey and security findings here. <a href="#">( WriteUps )</a><br>
+  <b>Below are some of my recent write-ups :👇</b><br>
   <a href="#">📘 Building a Custom Network Scanner with Python & Scapy</a><br>
   <a href="#">📒 Exploiting Insecure Deserialization: From Theory to Lab</a><br>
   <a href="#">📙 HackTheBox Write-up: Advanced Linux Privilege Escalation</a><br><br>
@@ -135,7 +134,7 @@ I document my learning journey and security findings here. <a href="#">( WriteUp
 ### 🛠️ System Connectivity Status
 ` Connection: Established ` | ` Secure: Yes ` | ` User: Mira-3zzeldin ` | ` Location: Egypt `
 <br><br> **"Security is not a product, but a process."**, Bruce Schneier <br><br>
-<a href="LinkedIn">
+<a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">
   <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" width="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Twiter">
   <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg" width="30" title="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;
