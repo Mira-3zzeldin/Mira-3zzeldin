@@ -26,7 +26,7 @@
    <tr> <!--- Security Tools goes here -->
     <td style="vertical-align: middle;"><b>Security Tools : </b></td>
     <td><img src="Tech Stack Icons/Burpsuite Logo.png" width="20" title="Burpsuite"></td>
-    <td><img src="Tech Stack Icons/icons8-nmap-240.png" width="20" title="Nmap"></td>
+    <td><img src="Tech Stack Icons/icons8-nmap-240(1).png" width="20" title="Nmap"></td>
     <td><img src="Tech Stack Icons/Metasploit Logo.png" width="20" title="Metasploit"></td>
     <td><img src="Tech Stack Icons/Wireshark Logo.png" width="20" title="Wireshark"></td>
     <td><img src="Tech Stack Icons/Kali Linux Logo.png" width="20" title="Kali Linux"></td>
