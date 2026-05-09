@@ -38,23 +38,23 @@
     <td style="vertical-align: middle;"><b>Languages : </b></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="20" title="Python"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="20" title="Bash"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="20" title="JavaScript"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="20" title="MySQL"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="20" title="C"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="20" title="CPP"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="20" title="PHP"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="20" title="GO"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="20" title="JavaScript"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="20" title="PHP"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="20" title="MySQL"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="20" title="CPP"></td>
+    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="20" title="C"></td>
   </tr>
   <tr> <!--- Infrastructure and Labs goes here -->
     <td style="vertical-align: middle;"><b>Labs & OS : </b></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" width="20" title="Kali-Linux"></td>
+    <td><img src="Tech Stack Icons/TryHackMe Logo.png" width="20" title="TryHackMe"></td>
+    <td><img src="Tech Stack Icons/HackTheBox Logo.png" width="20" title="HackTheBox"></td>
+    <td><img src="Tech Stack Icons/HackerOne Logo.png" width="20" title="HackerOne"></td>
+    <td><img src="Tech Stack Icons/AWS Logo.png" width="20" title="AWS"></td>
+    <td><img src="Tech Stack Icons/Linux Logo.png" width="20" title="Linux"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="20" title="Git"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="20" title="Postman"></td>
     <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="20" title="VSCode"></td>
-    <td><img src="https://friconix.com/jpg/fi-snsuxx-tryhackme.jpg" width="20" title="TryHackMe"></td>
-    <td><img src="https://cdn.brandfetch.io/id-M19oKfL/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" width="20" title="HackTheBox"></td>
-    <td><img src="https://hexmos.com/freedevtools/svg_icons/cloudflare/metasploit.svg" width="20" title="Metasploit"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/wireshark.png" width="20" title="Wireshark"></td>
+    <td><img src="Tech Stack Icons/Trello Logo.png" width="20" title="Trello"></td>
   </tr>
 </table><br>
 
