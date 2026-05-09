@@ -13,7 +13,7 @@
 </p>
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right"> Penetration Tester | IT Graduate @ Mansoura University <br>
+👨🏻‍💻 **About Me**<img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right"> : Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](LinkedIn) or 🌱 [WriteUps](Blogs)<br>
 📫 How to reach me : Send an [Email](email) or message me on [Discord](discord)<br>
 👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
@@ -58,27 +58,33 @@
   </tr>
 </table><br>
 
-## Certification Badges 🪶
-<div style='display:flex; align-items:center;' align='center'>
-<a href="#">
-  <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="80px" style="margin: 20px;" />
-<a href="#">
-  <img src="https://images.credly.com/images/9f3a0aa9-ad62-4687-9b11-ddb626259fe2/CompTIA_Network_2B.png" width="80px" style="margin: 20px;" />
-<a href="#"
-  ><img src="https://images.credly.com/size/340x340/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" width="80px" style="margin: 20px;" />
-<a href="#">
-  <img src="https://images.credly.com/images/9da17576-0461-4493-95d8-184f77fa2677/MTA-Windows_Operating_System_Fundamentals.png" width="80px" style="margin: 20px;" />
-<a href="#"
-  ><img src="https://images.credly.com/images/69278d25-c54c-46a2-b1f6-836c6b2a260b/exam-md100-600x600.png" width="80px" style="margin: 20px;" />
-<a href="#">
-  <img src="https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" width="80px" style="margin: 20px;" />
-<a href="#">
-  <img src="https://images.credly.com/images/c5cd3cdf-b652-4ef5-9f34-794dff0623a3/blob" width="80px" style="margin: 20px;" />
-<a href="#">
-  <img src="https://images.credly.com/images/1bf57c1b-e85e-4f6b-a62d-188536e7a511/pan_pcnsa_digital-badge_sharing-logo-2048x2048.png" width="80px" style="margin: 20px;" />
-<a href="#">
-  <img src="https://images.credly.com/size/340x340/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" width="80px" style="margin: 20px;" />
-</div><br><br>
+<details>
+  <summary><b>🎓 Professional Knowledge Base (Certifications Path) 🪶</b></summary>
+  <br>
+  <blockquote>
+    <i>"Finished the full curriculum for the following certifications, preparing for the official exams."</i>
+  </blockquote>
+
+  <table border="0">
+    <tr>
+      <td align="center"><b>Infrastructure</b><br><br>
+        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="A+ (Completed)"> 
+        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="Linux+ (Completed)">
+        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="MTA (Completed)">
+      </td>
+      <td align="center"><b>Networking</b><br><br>
+        <img src="" width="50" title="Network+ (Completed)">
+        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="CCNA (Completed)">
+        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="CCNP (In Progress)">
+      </td>
+      <td align="center"><b>Security</b><br><br>
+        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="Wireshark Analyst">
+        <img src="https://images.credly.com/size/340x340/images/a81e53e7-3649-4366-917d-9611bb74c10c/CompTIA_A_2B.png" width="50" title="Palo Alto PCNSA">
+        <!-- هنا هتضيفي شهادات السكيورتي الجديدة -->
+      </td>
+    </tr>
+  </table>
+</details>
 
 <!--- 1st Section on Curated Articles -->
 <details><summary>
