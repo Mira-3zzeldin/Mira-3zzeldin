@@ -1,8 +1,8 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">Mira</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mira3zzeldin/">Mira</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">LinkedIn</a> -
+  <a href="https://www.linkedin.com/in/mira3zzeldin/">LinkedIn</a> -
   <a href="TryHackMe">TryHackMe</a> - 
   <a href="HackTheBox">HackTheBox</a> -
   <a href="HackerOne">HackerOne</a> -
@@ -14,7 +14,7 @@
 
 ---------------------------------------------------------
 👨🏻‍💻 **About Me** <img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right"> : Penetration Tester | IT Graduate @ Mansoura University <br>
-⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira-ezz-eldin-529263407/) or 🌱 [WriteUps](Medium)<br>
+⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira3zzeldin/) or 🌱 [WriteUps](Medium)<br>
 📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on [Discord](discord)<br>
 👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
 💬 Knowledge Exchange: Let's discuss Web Sec, PrivEsc, and CTF Writeups.<br><br>
@@ -135,7 +135,7 @@
 ### 🛠️ System Connectivity Status
 ` Connection: Established ` | ` Secure: Yes ` | ` User: Mira-3zzeldin ` | ` Location: Egypt `
 <br><br> **"Security is not a product, but a process."**, Bruce Schneier <br><br>
-<a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">
+<a href="https://www.linkedin.com/in/mira3zzeldin/">
   <img src="Tech Stack Icons/Linkedin Logo.png" width="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Twiter">
   <img src="Tech Stack Icons/Twitter Logo.png" width="30" title="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;
