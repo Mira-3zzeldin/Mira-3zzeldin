@@ -20,7 +20,7 @@
 💬 Knowledge Exchange: Let's discuss Web Sec, PrivEsc, and CTF Writeups.<br><br>
 
 <!--- Adding Tech Stack open Section -->
-<b>🛠 Tech Stack/ Certifications</b><br>
+<b>🛠 Tech Stack & Certifications</b><br>
 
 <table border="0" style="border-collapse: collapse; border: none; border-color: transparent;">
    <tr> <!--- Security Tools goes here -->
@@ -62,8 +62,7 @@
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
 <br>
 <!-- Phase 0 -->
-   📍 Phase 0 : IT & Networking Fundamentals
-<p><b>Status :</b> ![100%](https://progress-bar.dev)</p>
+📍 Phase 0 : IT & Networking Fundamentals [100%]
 <table>
   <tr>
     <td><b>Certifications</b></td>
@@ -74,44 +73,42 @@
     <td>TestOut Labs, Wireshark, Cisco Packet Tracer</td>
   </tr>
   <tr>
-    <td><b>Core Concepts</b></td>
+    <td><b>Theoretical Foundations</b></td>
     <td>Operating System Concepts ( by Silberschatz ), Popular Suites ( Office, Google Suite )</td>
   </tr>
 </table>
 
 <!-- Phase 1 -->
-<h3>💻 Phase 1: Operating Systems Mastery</h3>
-<p><b>Status:</b> ![85%](https://progress-bar.xyz)</p>
+💻 Phase 1 : Operating Systems Mastery [100%]
 <table>
   <tr>
     <td><b>🐧 Linux</b></td>
-    <td>CompTIA Linux+, OverTheWire (Bandit), TryHackMe, VMware Labs</td>
+    <td>CompTIA Linux+ ( by Christine Bresnahan & Richard Blum ), OverTheWire : Bandit - TryHackMe Linux Rooms - TestOut, VMware ( Ubuntu )</td>
   </tr>
   <tr>
     <td><b>🪟 Windows</b></td>
-    <td>MTA 98-349, MD-100 (Windows Client), Microsoft Learn Labs</td>
+    <td>MTA 98-349 ( Windows OS Fundamentals ), MD-100 ( Windows Client ), Microsoft Learn Labs, VMware</td>
   </tr>
   <tr>
     <td><b>🍏 macOS</b></td>
-    <td>macOS Terminal & Shell (Kirk McElhearn), Apple Official Guide</td>
+    <td>macOS Terminal & Shell ( Kirk McElhearn ), Apple Official Guide</td>
   </tr>
 </table>
 
 <!-- Phase 2 -->
-<h3>🌐 Phase 2: Advanced Networking & Security</h3>
-<p><b>Status:</b> ![50%](https://progress-bar.xyz)</p>
+🌐 Phase 2 : Advanced Networking & Security [50%]
 <table>
   <tr>
     <td><b>📡 Cisco</b></td>
-    <td>CCNA (Wendell Odom), CCNP Enterprise (ENCOR & ENARSI) - <i>Lab: EVE-NG</i></td>
+    <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Practice Platforms : Cisco Packet Tracer, EVE-NG, GNS3</td>
   </tr>
   <tr>
     <td><b>🧪 Analysis</b></td>
-    <td><b>WCNA:</b> Wireshark Study Guide, Malware-Traffic-Analysis, CyberDefenders</td>
+    <td><b>WCNA ( by Laura Chappell ), ( Wireshark, VMware ), PCAP ( malware-traffic-analysis.net, cyberdefenders.org ), TryHackMe</td>
   </tr>
   <tr>
     <td><b>🔥 Firewall</b></td>
-    <td><b>PCNSA:</b> Palo Alto VM-Series | <b>Fortinet:</b> NSE 1-4 (FortiGate Security)</td>
+    <td><b>PCNSA :</b> Palo Alto VM-Series, CyberRange labs, TryHackMe ( Firewall Rooms ) | <b>Fortinet :</b> NSE 1-4 ( FortiGate VM )</td>
   </tr>
 </table>
 </details>
