@@ -120,11 +120,11 @@
 <details><summary>
 <b>📝 Security Write-ups & Articles</b></summary>
 <blockquote>
-<br>I document my learning journey and security findings here. <a href="#">( WriteUps )</a><br>
+  <br>I document my learning journey and security findings here. <a href="#">( Medium )</a><br>
   <b>Below are some of my recent write-ups :👇</b><br>
-  <a href="#">📘 Building a Custom Network Scanner with Python & Scapy</a><br>
-  <a href="#">📒 Exploiting Insecure Deserialization: From Theory to Lab</a><br>
-  <a href="#">📙 HackTheBox Write-up: Advanced Linux Privilege Escalation</a><br><br>
+  <a href="#">🛡️ Building a Custom Network Scanner...</a><br>
+  <a href="#">🔍 Exploiting Insecure Deserialization...</a><br>
+  <a href="#">🐧 HackTheBox: Advanced Linux PrivEsc</a><br><br>
   <a href="#">➡️ Explore more posts ...</a><br>
 </blockquote>
 </details>
@@ -133,7 +133,7 @@
 <div align="center">
 
 ### 🛠️ System Connectivity Status
-` Connection: Established ` | ` Secure: Yes ` | ` User: Mira-3zzeldin ` | ` Location: Egypt `
+<p align="center"><code>Connection: Established</code> | <code>Secure: Yes</code> | <code>User: Mira-3zzeldin</code> | <code>Location: Egypt</code></p>
 <br><br> **"Security is not a product, but a process."**, Bruce Schneier <br><br>
 <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">
   <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" width="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
