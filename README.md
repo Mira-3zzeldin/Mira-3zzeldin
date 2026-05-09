@@ -62,7 +62,7 @@
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
 <br>
 <!-- Phase 0 -->
-📍 Phase 0 : IT & Networking Fundamentals [100%]<br>
+📍 Phase 0 : IT & Networking Fundamentals [100%]<br><br>
 <table>
   <tr>
     <td><b>Certifications</b></td>
@@ -79,11 +79,11 @@
 </table>
 
 <!-- Phase 1 -->
-<br>💻 Phase 1 : Operating Systems Mastery [100%]<br>
+<br>💻 Phase 1 : Operating Systems Mastery [100%]<br><br>
 <table>
   <tr>
     <td><b>🐧 Linux</b></td>
-    <td>CompTIA Linux+ ( by Christine Bresnahan & Richard Blum ), OverTheWire : Bandit, TryHackMe, TestOut, VMware : Ubuntu</td>
+    <td>CompTIA Linux+ ( by Christine Bresnahan & Richard Blum ), OverTheWire : Bandit, VMware : Ubuntu</td>
   </tr>
   <tr>
     <td><b>🪟 Windows</b></td>
@@ -96,11 +96,11 @@
 </table>
 
 <!-- Phase 2 -->
-<br>🌐 Phase 2 : Advanced Networking & Security [50%]<br>
+<br>🌐 Phase 2 : Advanced Networking & Security [50%]<br><br>
 <table>
   <tr>
     <td><b>📡 Cisco</b></td>
-    <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Practice : Cisco Packet Tracer, EVE-NG, GNS3</td>
+    <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Cisco Packet Tracer, EVE-NG, GNS3</td>
   </tr>
   <tr>
     <td><b>🧪 Analysis</b></td>
