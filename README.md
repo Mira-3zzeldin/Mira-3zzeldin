@@ -124,7 +124,7 @@
   <b>Below are some of my recent write-ups :👇</b><br>
   <a href="#">🛡️ Building a Custom Network Scanner...</a><br>
   <a href="#">🔍 Exploiting Insecure Deserialization...</a><br>
-  <a href="#">🐧 HackTheBox: Advanced Linux PrivEsc</a><br><br>
+  <a href="#">🐧 HackTheBox: Advanced Linux PrivEsc</a><br>
   <a href="#">➡️ Explore more posts ...</a><br>
 </blockquote>
 </details>
@@ -133,14 +133,14 @@
 <div align="center">
 
 ### 🛠️ System Connectivity Status
-<p align="center"><code>Connection: Established</code> | <code>Secure: Yes</code> | <code>User: Mira-3zzeldin</code> | <code>Location: Egypt</code></p>
+` Connection: Established ` | ` Secure: Yes ` | ` User: Mira-3zzeldin ` | ` Location: Egypt `
 <br><br> **"Security is not a product, but a process."**, Bruce Schneier <br><br>
 <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">
-  <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" width="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Tech Stack Icons/LinkedIn Logo.png" width="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Twiter">
-  <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg" width="30" title="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Tech Stack Icons/Twitter Logo.png" width="30" title="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Discord">
-  <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg" width="30" title="Discord"></a>
+  <img src="Tech Stack Icons/Discord Logo.png" width="30" title="Discord"></a>
 <br><br>
 **[ 🏁 End of Session ]**
 </div>
