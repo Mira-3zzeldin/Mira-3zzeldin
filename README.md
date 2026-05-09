@@ -62,7 +62,7 @@
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
 <br>
 <!-- Phase 0 -->
-📍 Phase 0 : IT & Networking Fundamentals [100%]<br><br>
+<h5>📍 Phase 0 : IT & Networking Fundamentals [ 100% ]</h5><br><br>
 <table>
   <tr>
     <td><b>Certifications</b></td>
@@ -79,7 +79,7 @@
 </table>
 
 <!-- Phase 1 -->
-<br>💻 Phase 1 : Operating Systems Mastery [100%]<br><br>
+<br><h5>💻 Phase 1 : Operating Systems Mastery [ 100% ]</h5><br><br>
 <table>
   <tr>
     <td><b>🐧 Linux</b></td>
@@ -96,7 +96,7 @@
 </table>
 
 <!-- Phase 2 -->
-<br>🌐 Phase 2 : Advanced Networking & Security [50%]<br><br>
+<br><h5>🌐 Phase 2 : Advanced Networking & Security [ 50% ]</h5><br><br>
 <table>
   <tr>
     <td><b>📡 Cisco</b></td>
@@ -104,7 +104,7 @@
   </tr>
   <tr>
     <td><b>🧪 Analysis</b></td>
-    <td><b>WCNA ( by Laura Chappell ), Wireshark, VMware, malware-traffic-analysis, cyberdefenders, TryHackMe</td>
+    <td>WCNA ( by Laura Chappell ), Wireshark, VMware, malware-traffic-analysis, cyberdefenders, TryHackMe</td>
   </tr>
   <tr>
     <td><b>🔥 Firewall</b></td>
