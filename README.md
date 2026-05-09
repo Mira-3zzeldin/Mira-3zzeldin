@@ -5,7 +5,9 @@
   <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">LinkedIn</a> -
   <a href="TryHackMe">TryHackMe</a> - 
   <a href="HackTheBox">HackTheBox</a> -
-  <a href="Blogs">WriteUps</a> -
+  <a href="HackerOne">HackerOne</a> -
+  <a href="Bugcrowd">Bugcrowd</a> -
+  <a href="Medium">WriteUps</a> -
   <a href="Certifications">Credly</a> -
   <a href="mailto:mira3zzeldin@gmail.com">Contact me.</a> 
 </p>
