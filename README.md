@@ -13,8 +13,7 @@
 </p>
 
 ---------------------------------------------------------
-<img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right">
-👨🏻‍💻 **About Me** : Penetration Tester | IT Graduate @ Mansoura University <br>
+👨🏻‍💻 **About Me** <img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right"> : Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira-ezz-eldin-529263407/) or 🌱 [WriteUps](Medium)<br>
 📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on [Discord](discord)<br>
 👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
