@@ -125,7 +125,7 @@
   <a href="#">🛡️ Building a Custom Network Scanner...</a><br>
   <a href="#">🔍 Exploiting Insecure Deserialization...</a><br>
   <a href="#">🐧 HackTheBox: Advanced Linux PrivEsc</a><br>
-  <a href="#">➡️ Explore more posts ...</a><br>
+  <a href="#">➡️ Explore more posts ...</a><br><br>
 </blockquote>
 </details>
 
@@ -136,7 +136,7 @@
 ` Connection: Established ` | ` Secure: Yes ` | ` User: Mira-3zzeldin ` | ` Location: Egypt `
 <br><br> **"Security is not a product, but a process."**, Bruce Schneier <br><br>
 <a href="https://www.linkedin.com/in/mira-ezz-eldin-529263407/">
-  <img src="Tech Stack Icons/LinkedIn Logo.png" width="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Tech Stack Icons/Linkedin Logo.png" width="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Twiter">
   <img src="Tech Stack Icons/Twitter Logo.png" width="30" title="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Discord">
