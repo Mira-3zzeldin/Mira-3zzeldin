@@ -25,7 +25,7 @@
 <table border="0" style="border-collapse: collapse; border: none; border-color: transparent;">
    <tr> <!--- Security Tools goes here -->
     <td style="vertical-align: middle;"><b>Security Tools : </b></td>
-    <td><img src="Tech Stack Icons/Burpsuite Logo.png" width="20" title="Burpsuite"></td>
+    <td><img src="Tech Stack Icons/Burbsuite Logo.jpeg" width="20" title="Burpsuite"></td>
     <td><img src="Tech Stack Icons/Nmap Logo.png" width="20" title="Nmap"></td>
     <td><img src="Tech Stack Icons/Metasploit Logo.png" width="20" title="Metasploit"></td>
     <td><img src="Tech Stack Icons/Wireshark Logo.png" width="20" title="Wireshark"></td>
