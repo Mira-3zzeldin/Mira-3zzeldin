@@ -62,7 +62,7 @@
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
 <br>
 <!-- Phase 0 -->
-📍 Phase 0 : IT & Networking Fundamentals
+   📍 Phase 0 : IT & Networking Fundamentals
 <p><b>Status :</b> ![100%](https://progress-bar.dev)</p>
 <table>
   <tr>
