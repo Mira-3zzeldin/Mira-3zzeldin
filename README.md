@@ -76,7 +76,8 @@
     <td><b>Theoretical Foundations</b></td>
     <td>Operating System Concepts ( by Silberschatz ), Popular Suites ( Office, Google Suite )</td>
   </tr>
-</table><br>
+</table>
+<br><hr><br>
 
 <!-- Phase 1 -->
 <table width="100%">
@@ -93,7 +94,8 @@
     <td><b>🍏 macOS</b></td>
     <td>macOS Terminal & Shell ( Kirk McElhearn ), Apple Official Guide</td>
   </tr>
-</table><br>
+</table>
+<br><hr><br>
 
 <!-- Phase 2 -->
 <table width="100%">
@@ -110,7 +112,8 @@
     <td><b>🔥 Firewall</b></td>
     <td><b>PCNSA :</b> Palo Alto VM-Series, CyberRange, TryHackMe | <b>Fortinet :</b> NSE 1-4 ( FortiGate VM )</td>
   </tr>
-</table><br>
+</table>
+<br><hr><br>
 </details>
 
 <!--- 1st Section on Curated Articles -->
