@@ -98,9 +98,8 @@
 <details>
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
-  <p align="center"><img style="width: 88%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" /></p>
-  <p align="center"><img style="width: 38%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" /></p>
-  <p align="center"><img src="https://streak-stats.demolab.com?user=Mira-3zzeldin&theme=github-dark&hide_border=true" alt="Streak Stats" /></p>
+  <p align="center"><img style="width: 90%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" /></p>
+  <p align="center"><img style="width: 90%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" /></p>
 </details>
 
 
