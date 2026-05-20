@@ -67,12 +67,14 @@
     <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦</td>
     <td align="center">🟦🟦🟦🟦🟦⬛⬛⬛<</td>
     <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛</td>
+    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
   <tr>
-    <td align="center">Phase-00 (100%)</td>
-    <td align="center">Phase-01 (100%)</td>
-    <td align="center">Phase-02 (85%)</td>
-    <td align="center">Phase-03 (0%)</td>
+    <td align="center">Phase 00 ( 100% )</td>
+    <td align="center">Phase 01 ( 100% )</td>
+    <td align="center">Phase 02 ( 85% )</td>
+    <td align="center">Phase 03 ( 0% )</td>
+    <td align="center">Phase 04 ( 0% )</td>
   </tr>
 </table>
 <br>
