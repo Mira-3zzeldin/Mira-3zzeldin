@@ -81,16 +81,18 @@
 </details>
 
 <!--- 1st Section on Curated Articles -->
-<details><summary>
-<b>📝 Security Write-ups & Articles</b></summary>
-<blockquote>
-  <br>I document my learning journey and security findings here. <a href="#">( Medium )</a><br>
-  <b>Below are some of my recent write-ups :👇</b><br>
-  <a href="#">🛡️ Building a Custom Network Scanner...</a><br>
-  <a href="#">🔍 Exploiting Insecure Deserialization...</a><br>
-  <a href="#">🐧 HackTheBox: Advanced Linux PrivEsc</a><br>
-  <a href="#">➡️ Explore more posts ...</a><br><br>
-</blockquote>
+<details>
+<summary><b>📝 Security Write-ups & Articles</b></summary><br>
+<div align="left">
+<ul>
+  <li>🛡️ <a href="#">Building a Custom Network Scanner...</a>
+  <li>🔍 <a href="#">Exploiting Insecure Deserialization...</a>
+  <li>🐧 <a href="#">HackTheBox: Advanced Linux PrivEsc</a>
+  <li>🌐 <a href="#">OWASP Top 10: Broken Authentication Deep Dive</a>
+  <li>➡️ <a href="#">Explore more posts ...</a>
+</ul>
+<br>
+</div>
 </details>
 
 <details>
