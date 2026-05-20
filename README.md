@@ -96,19 +96,6 @@
 </details>
 
 <details>
-<summary><b>⚙️ GitHub Analytics</b></summary><br>
-  <p align="center">
-    <img style="width: 90%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
-  </p>
-  <p align="center">
-    <img style="width: 44%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
-    <b> &nbsp; &nbsp; </b>
-    <img style="width: 44%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
-  </p>
-<br>
-</details>
-
-<details>
 <summary><b>🔥 Featured Security Projects & Tools</b></summary><br>
 <div align="left">
 <ul>
@@ -120,6 +107,19 @@
 </ul>
 <br>
 </div>
+</details>
+
+<details>
+<summary><b>⚙️ GitHub Analytics</b></summary><br>
+  <p align="center">
+    <img style="width: 90%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+  </p>
+  <p align="center">
+    <img style="width: 44%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+    <b> &nbsp; &nbsp; </b>
+    <img style="width: 44%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+  </p>
+<br>
 </details>
 
 <!--- Footer Stats - Adding the Social Media Status count -->
