@@ -14,7 +14,7 @@
 
 ---------------------------------------------------------
 
-👨🏻‍💻 **About Me** <img src="./assetes/Main-Pic" min-width="300px" max-width="300px" width="320px" align="right"> : Penetration Tester | IT Graduate @ Mansoura University <br>
+👨🏻‍💻 **About Me** <img src="assets/Main-Pic" min-width="300px" max-width="300px" width="320px" align="right"> : Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira3zzeldin/) or 🌱 [WriteUps](https://rootshadow.hashnode.dev/)<br>
 📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on [Discord](discord)<br>
 👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
@@ -98,8 +98,8 @@
 <details>
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <br>
-  <p align="center"><img style="width: 88%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" /></p>
-  <p align="center"><img style="width: 38%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" /></p>
+  <p align="center"><img style="width: 88%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" /></p>
+  <p align="center"><img style="width: 38%;" src="https://raw.githubusercontent.com/Mira-3zzeldin/Mira-3zzeldin/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" /></p>
   <p align="center"><img src="https://streak-stats.demolab.com?user=Mira-3zzeldin&theme=github-dark&hide_border=true" alt="Streak Stats" /></p>
 </details>
 
