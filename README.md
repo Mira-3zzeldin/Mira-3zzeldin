@@ -99,7 +99,7 @@
 <summary><b>🔥 Featured Security Projects & Tools</b></summary><br>
 <div align="left">
 <ul>
-  <li>🛡️ <a href="https://mira-3zzeldin.github.io/Infosec-Journey/">🌐 InfoSec Journey : Offensive Security Path</a>
+  <li>🌐 <a href="https://mira-3zzeldin.github.io/Infosec-Journey/">InfoSec Journey : Offensive Security Path</a>
   <li>🥷 <a href="#">Cyber Vigilante : Custom Pentesting Tools</a></li>
   <li>🛡️ <a href="#">Red Team Chronicles : Active Directory Labs</a></li>
   <li>🧪 <a href="#">Malware Sandbox : Reverse Engineering Path</a></li>
