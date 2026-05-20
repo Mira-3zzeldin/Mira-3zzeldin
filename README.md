@@ -7,14 +7,15 @@
   <a href="HackTheBox">HackTheBox</a> -
   <a href="HackerOne">HackerOne</a> -
   <a href="Bugcrowd">Bugcrowd</a> -
-  <a href="Medium">WriteUps</a> -
-  <a href="Certifications">Credly</a> -
+  <a href="https://hashnode.com/@mira3zzeldin">WriteUps</a> -
+  <a href="https://www.credly.com/users/mira3zzeldin">Credly</a> -
   <a href="mailto:mira3zzeldin@gmail.com">Contact me.</a> 
 </p>
 
 ---------------------------------------------------------
+
 👨🏻‍💻 **About Me** <img src="futuristic-glowing-padlock-digital-security-strong-protection-safe-online.png" min-width="300px" max-width="300px" width="320px" align="right"> : Penetration Tester | IT Graduate @ Mansoura University <br>
-⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira3zzeldin/) or 🌱 [WriteUps](Medium)<br>
+⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira3zzeldin/) or 🌱 [WriteUps](https://rootshadow.hashnode.dev/)<br>
 📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on [Discord](discord)<br>
 👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
 💬 Knowledge Exchange: Let's discuss Web Sec, PrivEsc, and CTF Writeups.<br><br>
@@ -59,61 +60,22 @@
 </table><br>
 
 <details>
-<summary><b>🚀 My Technical Roadmap & Learning Path</b></summary>
-<br><br>
-<!-- Phase 0 -->
+<summary><b>🚀 My Technical Roadmap & Learning Path</b></summary><br>
 <table width="100%">
-  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">📍 Phase 0 : IT & Networking Fundamentals [ Completed : 100% ]</th></tr>
   <tr>
-    <td><b>Certifications</b></td>
-    <td>CompTIA IT Fundamentals+, CompTIA A+, CompTIA Network+ : ( by Mike Meyers )</td>
+    <td align="center">🟧🟧🟧🟧🟧🟧</td>
+    <td align="center">🟧🟧🟧🟧🟧🟧</td>
+    <td align="center">🟧🟧🟧⬛⬛⬛<</td>
+    <td align="center">⬛⬛⬛⬛⬛⬛</td>
   </tr>
   <tr>
-    <td><b>Practical Labs</b></td>
-    <td>TestOut Labs, Wireshark, Cisco Packet Tracer</td>
-  </tr>
-  <tr>
-    <td><b>Theoretical Foundations</b></td>
-    <td>Operating System Concepts ( by Silberschatz ), Popular Suites ( Office, Google Suite )</td>
+    <td align="center">Phase-00 (100%)</td>
+    <td align="center">Phase-01 (100%)</td>
+    <td align="center">Phase-02 (85%)</td>
+    <td align="center">Phase-03 (0%)</td>
   </tr>
 </table>
-<br><hr><br>
-
-<!-- Phase 1 -->
-<table width="100%">
-  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">💻 Phase 1 : Operating Systems Mastery [ Completed : 100% ]</th></tr>
-  <tr>
-    <td><b>🐧 Linux</b></td>
-    <td>CompTIA Linux+ ( by Christine Bresnahan & Richard Blum ), OverTheWire : Bandit, VMware : Ubuntu</td>
-  </tr>
-  <tr>
-    <td><b>🪟 Windows</b></td>
-    <td>MTA 98-349 ( Windows OS Fundamentals ), MD-100 ( Windows Client ), Microsoft Learn Labs, VMware</td>
-  </tr>
-  <tr>
-    <td><b>🍏 macOS</b></td>
-    <td>macOS Terminal & Shell ( Kirk McElhearn ), Apple Official Guide</td>
-  </tr>
-</table>
-<br><hr><br>
-
-<!-- Phase 2 -->
-<table width="100%">
-  <tr><th colspan="2" style="background-color: #2ea043; color: white; padding: 8px;">🌐 Phase 2 : Advanced Networking & Security [ In Progress : 85% ]</th></tr>
-  <tr>
-    <td><b>📡 Cisco</b></td>
-    <td>CCNA ( by Wendell Odom ), CCNP Enterprise ( ENCOR & ENARSI ), Cisco Packet Tracer, EVE-NG, GNS3</td>
-  </tr>
-  <tr>
-    <td><b>🧪 Analysis</b></td>
-    <td>WCNA ( by Laura Chappell ), Wireshark, VMware, malware-traffic-analysis, cyberdefenders, TryHackMe</td>
-  </tr>
-  <tr>
-    <td><b>🔥 Firewall</b></td>
-    <td><b>PCNSA :</b> Palo Alto VM-Series, CyberRange, TryHackMe | <b>Fortinet :</b> NSE 1-4 ( FortiGate VM )</td>
-  </tr>
-</table>
-<br><hr><br>
+<br>
 </details>
 
 <!--- 1st Section on Curated Articles -->
