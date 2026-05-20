@@ -80,7 +80,6 @@
 <br>
 </details>
 
-<!--- 1st Section on Curated Articles -->
 <details>
 <summary><b>📝 Security Write-ups & Articles</b></summary><br>
 <div align="left">
@@ -106,6 +105,19 @@
   </p>
 </details>
 
+<details>
+<summary><b>🔥 Featured Security Projects & Tools</b></summary><br>
+<div align="left">
+<ul>
+  <li>🛡️ <a href="https://mira-3zzeldin.github.io/Infosec-Journey/">🌐 InfoSec Journey : Offensive Security Path</a>
+  <li>🥷 <a href="#">Cyber Vigilante : Custom Pentesting Tools</a></li>
+  <li>🛡️ <a href="#">Red Team Chronicles : Active Directory Labs</a></li>
+  <li>🧪 <a href="#">Malware Sandbox : Reverse Engineering Path</a></li>
+  <li>🚨 <a href="#">SOC Blueprint : Blue Team & Threat Hunting</a></li>
+</ul>
+<br>
+</div>
+</details>
 
 <!--- Footer Stats - Adding the Social Media Status count -->
 <div align="center">
