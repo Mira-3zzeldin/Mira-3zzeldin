@@ -1,20 +1,20 @@
-name: GitHub Profile Summary Cards
+name: Update README
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # بيتعمل كل يوم
-  workflow_dispatch:        # تقدري تشغليه يدوي
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v3
-
-      - name: Generate Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        with:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
