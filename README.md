@@ -63,10 +63,10 @@
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary><br>
 <table width="100%">
   <tr>
-    <td align="center">🟧🟧🟧🟧🟧🟧</td>
-    <td align="center">🟧🟧🟧🟧🟧🟧</td>
-    <td align="center">🟧🟧🟧⬛⬛⬛<</td>
-    <td align="center">⬛⬛⬛⬛⬛⬛</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦</td>
+    <td align="center">🟦🟦🟦🟦🟦⬛⬛⬛<</td>
+    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
   <tr>
     <td align="center">Phase-00 (100%)</td>
