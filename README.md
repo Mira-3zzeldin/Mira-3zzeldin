@@ -63,19 +63,24 @@
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary><br>
 <table width="100%">
   <tr>
-    <td align="center">🟦🟦🟦🟦🟦🟦🟦</td>
-    <td align="center">🟦🟦🟦🟦🟦🟦🟦</td>
-    <td align="center">🟦🟦🟦🟦⬛⬛⬛</td>
-    <td align="center">⬛⬛⬛⬛⬛⬛⬛</td>
-    <td align="center">⬛⬛⬛⬛⬛⬛⬛</td>
+    <td align="center">Phase 00 - IT & Networking Fundamentals ( 100% )</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
   </tr>
-  <tr></tr>
   <tr>
-    <td align="center">Phase 00 ( 100% )</td>
-    <td align="center">Phase 01 ( 100% )</td>
-    <td align="center">Phase 02 ( 85% )</td>
-    <td align="center">Phase 03 ( 0% )</td>
-    <td align="center">Phase 04 ( 0% )</td>
+    <td align="center">Phase 00 - IT & Networking Fundamentals ( 100% )</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
+  </tr>
+  <tr>
+    <td align="center">Phase 00 - IT & Networking Fundamentals ( 100% )</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
+  </tr>
+  <tr>
+    <td align="center">Phase 00 - IT & Networking Fundamentals ( 100% )</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
+  </tr>
+  <tr>
+    <td align="center">Phase 00 - IT & Networking Fundamentals ( 100% )</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
   </tr>
 </table>
 <br>
