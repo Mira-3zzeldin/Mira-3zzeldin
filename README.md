@@ -93,35 +93,35 @@
 <details>
 <summary>
   <b>📝 Security Write-ups & Articles
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
      🔥 Featured Security Projects & Tools</b></summary><br>
 <div align="left">
 <ul>
   <li>
     🛡️ <a href="#">Building a Custom Network Scanner...</a>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     - 🌐 <a href="https://mira-3zzeldin.github.io/Infosec-Journey/">InfoSec Journey : Offensive Security Path</a>
-  <li>🔍 <a href="#">Exploiting Insecure Deserialization...</a>
-  <li>🐧 <a href="#">HackTheBox: Advanced Linux PrivEsc</a>
-  <li>🌐 <a href="#">OWASP Top 10: Broken Authentication Deep Dive</a>
-  <li>➡️ <a href="#">Explore more posts ...</a>
-</ul>
-<br>
-</div>
-</details>
-
-<details>
-<summary><b>📝 Security Write-ups & Articles</b></summary><br>
-<div align="left">
-<ul>
+  </li>
   <li>
-    🛡️ <a href="#">Building a Custom Network Scanner...</a>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    🌐 <a href="https://mira-3zzeldin.github.io/Infosec-Journey/">InfoSec Journey : Offensive Security Path</a>
-  <li>🔍 <a href="#">Exploiting Insecure Deserialization...</a>
-  <li>🐧 <a href="#">HackTheBox: Advanced Linux PrivEsc</a>
-  <li>🌐 <a href="#">OWASP Top 10: Broken Authentication Deep Dive</a>
-  <li>➡️ <a href="#">Explore more posts ...</a>
+    🔍 <a href="#">Exploiting Insecure Deserialization...</a>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    🥷 <a href="#">Cyber Vigilante : Custom Pentesting Tools</a>
+  </li>
+  <li>
+    🐧 <a href="#">HackTheBox: Advanced Linux PrivEsc</a>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    🛡️ <a href="#">Red Team Chronicles : Active Directory Labs</a>
+  </li>
+  <li>
+    🌐 <a href="#">OWASP Top 10: Broken Authentication Deep Dive</a>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    🧪 <a href="#">Malware Sandbox : Reverse Engineering Path</a>
+  </li>
+  <li>
+    ➡️ <a href="#">Explore more posts ...</a>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    🚨 <a href="#">SOC Blueprint : Blue Team & Threat Hunting</a>
+  </li>
 </ul>
 <br>
 </div>
