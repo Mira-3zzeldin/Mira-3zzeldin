@@ -14,7 +14,7 @@
 
 ---------------------------------------------------------
 
-👨🏻‍💻 **About Me** <img src="assets/Main-Pic" min-width="300px" max-width="300px" width="320px" align="right"> : Penetration Tester | IT Graduate @ Mansoura University <br>
+👨🏻‍💻 **About Me** <a href="https://rootshadow.hashnode.dev/"><img src="assets/Main-Pic" min-width="300px" max-width="300px" width="320px" align="right"></a> : Penetration Tester | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira3zzeldin/) or 🌱 [WriteUps](https://rootshadow.hashnode.dev/)<br>
 📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on [Discord](discord)<br>
 👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
