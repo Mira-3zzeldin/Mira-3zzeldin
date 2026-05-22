@@ -64,7 +64,7 @@
 <table width="100%">
   <tr>
     <td align="center">Phase 00 - IT & Networking Fundamentals ( 100% )</td>
-    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
   </tr>
   <tr>
     <td align="center">Phase 00 - IT & Networking Fundamentals ( 100% )</td>
