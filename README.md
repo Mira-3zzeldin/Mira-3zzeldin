@@ -63,38 +63,61 @@
 <summary><b>🚀 My Technical Roadmap & Learning Path</b></summary><br>
 <table width="100%">
   <tr>
-    <td> 🔌 Phase 00 - IT & Networking Fundamentals ( 100% )</td>
-    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
+    <td> 🔌 Phase 00 - IT & Networking Fundamentals</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
   </tr>
   <tr>
-    <td> 💻 Phase 01 - Operating Systems Mastery ( 100% )</td>
-    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
+    <td> 💻 Phase 01 - Operating Systems Mastery</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
   </tr>
   <tr>
-    <td> 🛡️ Phase 02 - Advanced Networking & Security ( 85% )</td>
-    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛</td>
+    <td> 🛡️ Phase 02 - Advanced Networking & Security</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛</td>
   </tr>
   <tr>
-    <td> 🥷 Phase 03 - Offensive Security Core ( 0% )</td>
-    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
+    <td> 🥷 Phase 03 - Offensive Security Core</td>
+    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
   <tr>
-    <td> 🌐 Phase 04 - Web Application Pentesting ( 0% )</td>
-    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
+    <td> 🌐 Phase 04 - Web Application Pentesting</td>
+    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
   <tr>
-    <td> 👑 Phase 05 — Active Directory & Red Team ( 0% )</td>
-    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
+    <td> 👑 Phase 05 — Active Directory & Red Team</td>
+    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
 </table>
 <br>
 </details>
 
 <details>
+<summary>
+  <b>📝 Security Write-ups & Articles
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+     🔥 Featured Security Projects & Tools</b></summary><br>
+<div align="left">
+<ul>
+  <li>
+    🛡️ <a href="#">Building a Custom Network Scanner...</a>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    - 🌐 <a href="https://mira-3zzeldin.github.io/Infosec-Journey/">InfoSec Journey : Offensive Security Path</a>
+  <li>🔍 <a href="#">Exploiting Insecure Deserialization...</a>
+  <li>🐧 <a href="#">HackTheBox: Advanced Linux PrivEsc</a>
+  <li>🌐 <a href="#">OWASP Top 10: Broken Authentication Deep Dive</a>
+  <li>➡️ <a href="#">Explore more posts ...</a>
+</ul>
+<br>
+</div>
+</details>
+
+<details>
 <summary><b>📝 Security Write-ups & Articles</b></summary><br>
 <div align="left">
 <ul>
-  <li>🛡️ <a href="#">Building a Custom Network Scanner...</a>
+  <li>
+    🛡️ <a href="#">Building a Custom Network Scanner...</a>
+     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    🌐 <a href="https://mira-3zzeldin.github.io/Infosec-Journey/">InfoSec Journey : Offensive Security Path</a>
   <li>🔍 <a href="#">Exploiting Insecure Deserialization...</a>
   <li>🐧 <a href="#">HackTheBox: Advanced Linux PrivEsc</a>
   <li>🌐 <a href="#">OWASP Top 10: Broken Authentication Deep Dive</a>
