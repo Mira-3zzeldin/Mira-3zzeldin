@@ -3,10 +3,8 @@
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mira3zzeldin/">LinkedIn</a> -
-  <a href="TryHackMe">TryHackMe</a> - 
-  <a href="HackTheBox">HackTheBox</a> -
-  <a href="HackerOne">HackerOne</a> -
-  <a href="Bugcrowd">Bugcrowd</a> -
+  <a href="https://tryhackme.com/p/mira3zzeldin">TryHackMe</a> - 
+  <a href="https://profile.hackthebox.com/profile/019e46bc-b5d2-73ae-9840-59e19930209f">HackTheBox</a> -
   <a href="https://hashnode.com/@mira3zzeldin">WriteUps</a> -
   <a href="https://www.credly.com/users/mira3zzeldin">Credly</a> -
   <a href="mailto:mira3zzeldin@gmail.com">Contact me.</a> 
