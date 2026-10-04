@@ -62,7 +62,7 @@
 <summary><b>🗺️ My Defensive Cybersecurity Roadmap & Learning Path</b></summary><br>
 <table width="100%">
   <tr>
-    <td>🔹 <b>Phase 00</b> - IT & Networking Fundamentals (Cisco Paths)</td>
+    <td>🕸️ <b>Phase 00</b> - IT & Networking Fundamentals (Cisco Paths)</td>
     <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@
     <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
   </tr>
   <tr>
-    <td>🛡️ <b>Phase 02</b> - Junior Cybersecurity Analyst Core (Cisco 120hrs)</td>
+    <td>🛡️ <b>Phase 02</b> - Junior Cybersecurity Analyst Core</td>
     <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛</td>
   </tr>
   <tr>
@@ -78,48 +78,45 @@
     <td align="center">🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
   <tr>
-    <td>🔍 <b>Phase 04</b> - Digital Forensics & Incident Response (CyberDefenders)</td>
-    <td align="center">🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
+    <td>🔍 <b>Phase 04</b> - Digital Forensics & Incident Responsed</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
   <tr>
-    <td>🎓 <b>Phase 05</b> - Professional Certifications (CompTIA CySA+ & CCNA)</td>
-    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
+    <td>🎓 <b>Phase 05</b> - Professional Certifications</td>
+    <td align="center">🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
 </table>
 <br>
 </details>
 
 <details>
-<summary>
-  <b>📝 Security Write-ups & Articles
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🔥 Featured Security Projects & Tools</b></summary><br>
-<div align="left">
-<ul>
-  <li>
-    🛡️ <a href="#">Building a Custom Network Scanner...</a>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-    ⦁ 🌐 <a href="https://mira-3zzeldin.github.io/Infosec-Journey/">InfoSec Journey : Offensive Security Path</a>
-  </li>
-  <li>
-    🔍 <a href="#">Exploiting Insecure Deserialization...</a>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; ⦁ 🥷 <a href="#">Cyber Vigilante : Custom Pentesting Tools</a>
-  </li>
-  <li>
-    🐧 <a href="#">HackTheBox: Advanced Linux PrivEsc</a>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;⦁ 🛡️ <a href="#">Red Team Chronicles : Active Directory Labs</a>
-  </li>
-  <li>
-    🌐 <a href="#">OWASP Top 10: Broken Authentication Deep Dive</a>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-    ⦁ 🧪 <a href="#">Malware Sandbox : Reverse Engineering Path</a>
-  </li>
-  <li>
-    ➡️ <a href="#">Explore more posts ...</a>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ⦁ 🚨 <a href="#">SOC Blueprint : Blue Team & Threat Hunting</a>
-  </li>
-</ul>
-<br>
-</div>
+<summary><b>📚 Security Write-ups & Featured Projects</b></summary><br>
+
+<table>
+  <tr>
+    <td align="center"><h4>📝 Security Write-ups & Articles</h4></td>
+    <td align="center"><h4>🔥 Featured Security Projects & Tools</h4></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>🛡️ <a href="https://rootshadow.hashnode.dev/security-principles-trust-is-not-a-feeling">Security Principles - Part I: Trust Is Not a Feeling</a></li>
+        <li>🛡️ <a href="https://rootshadow.hashnode.dev/security-principles-a-system-is-not-its-intended-use">Security Principles - Part II: A System Is Not Its Intended Use</a></li>
+        <li>🛡️ <a href="https://rootshadow.hashnode.dev/security-principles-hardcoding-the-safe-zones">Security Principles - Part III: Hardcoding the Safe Zones</a></li>
+        <li>🛡️ <a href="#">Security Principles - Part VI: A Perfect System Is a Fiction</a></li>
+        <li>➡️ <a href="https://rootshadow.hashnode.dev/">Explore more posts ...</a></li>
+      </ul>
+    </td>      
+    <td>
+      <ul>
+        <li>🎛️ <a href="https://github.com/Mira-3zzeldin/InstaShield-Security-Architecture">InstaShield: Biometric Fintech Payment System (Zero Trust)</a></li>
+        <li>🛡️ <a href="#">SOC Blueprint: Blue Team & Threat Hunting Labs</a></li>
+        <li>🌐 <a href="https://github.com/Mira-3zzeldin/Infosec-Journey">InfoSec Journey: Defensive Security Path</a></li>
+        <li>📡 <a href="#">Custom Network Monitoring & Logging Tools</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 </details>
 
 <details>
