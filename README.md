@@ -3,8 +3,8 @@
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mira3zzeldin/">LinkedIn</a> -
+  <a href="https://cyberdefenders.org/p/mira3zzeldin/">CyberDefenders</a> -
   <a href="https://tryhackme.com/p/mira3zzeldin">TryHackMe</a> - 
-  <a href="https://profile.hackthebox.com/profile/019e46bc-b5d2-73ae-9840-59e19930209f">HackTheBox</a> -
   <a href="https://hashnode.com/@mira3zzeldin">WriteUps</a> -
   <a href="https://www.credly.com/users/mira3zzeldin">Credly</a> -
   <a href="mailto:mira3zzeldin@gmail.com">Contact me.</a> 
@@ -12,11 +12,11 @@
 
 ---------------------------------------------------------
 
-👨🏻‍💻 **About Me** <a href="https://rootshadow.hashnode.dev/"><img src="assets/Main-Pic" min-width="300px" max-width="300px" width="320px" align="right"></a> : Penetration Tester | IT Graduate @ Mansoura University <br>
+👨🏻‍💻 **About Me** <a href="https://rootshadow.hashnode.dev/"><img src="assets/Main-Pic" min-width="300px" max-width="300px" width="320px" align="right"></a> : Security Operations Center (SOC) Engineer | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira3zzeldin/) or 🌱 [WriteUps](https://rootshadow.hashnode.dev/)<br>
-📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on [Discord](discord)<br>
-👯 Seeking Synergy : Looking to join elite CTF Teams.<br>
-💬 Knowledge Exchange: Let's discuss Web Sec, PrivEsc, and CTF Writeups.<br><br>
+📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on Discord: **mira3zzeldin**<br>
+👯 Seeking Synergy : Looking to join elite Blue Team & CTF Teams.<br>
+💬 Knowledge Exchange: Let's discuss Threat Hunting, SIEM/Log Analysis, Network Forensics, and CTF Writeups.<br><br>
 
 <!--- Adding Tech Stack open Section -->
 <b>🛠 Tech Stack & Certifications</b><br>
@@ -24,65 +24,66 @@
 <table border="0" style="border-collapse: collapse; border: none; border-color: transparent;">
    <tr> <!--- Security Tools goes here -->
     <td style="vertical-align: middle;"><b>Security Tools : </b></td>
-    <td><img src="Tech Stack Icons/Burbsuite Logo.jpeg" width="20" title="Burpsuite"></td>
-    <td><img src="Tech Stack Icons/Nmap Logo.png" width="20" title="Nmap"></td>
-    <td><img src="Tech Stack Icons/Metasploit Logo.png" width="20" title="Metasploit"></td>
-    <td><img src="Tech Stack Icons/Wireshark Logo.png" width="20" title="Wireshark"></td>
-    <td><img src="Tech Stack Icons/Kali Linux Logo.png" width="20" title="Kali Linux"></td>
-    <td><img src="Tech Stack Icons/Scapy Logo.png" width="20" title="Scapy"></td>
-    <td><img src="Tech Stack Icons/Postman Logo.png" width="20" title="Postman"></td>
-    <td><img src="Tech Stack Icons/Docker Logo.png" width="20" title="Docker"></td>
+    <td><img src="Tech-Stack-Icons/Wireshark-Logo.png" width="20" title="Wireshark"></td>
+    <td><img src="Tech-Stack-Icons/Splunk-Logo.png" width="20" title="Splunk SIEM"></td>
+    <td><img src="Tech-Stack-Icons/Volatility-Logo.png" width="20" title="Volatility"></td>
+    <td><img src="Tech-Stack-Icons/CyberChef-Logo.png" width="20" title="CyberChef"></td>
+    <td><img src="Tech-Stack-Icons/Autopsy-Logo.png" width="20" title="Autopsy"></td>
+    <td><img src="Tech-Stack-Icons/Snort-Logo.png" width="20" title="Snort IDS"></td>
+    <td><img src="Tech-Stack-Icons/Nmap-Logo.png" width="20" title="Nmap"></td>
+    <td><img src="Tech-Stack-Icons/Kali-Linux-Logo.png" width="20" title="Kali Linux"></td>
   </tr>
+  
   <tr> <!--- Languages goes here -->
     <td style="vertical-align: middle;"><b>Languages : </b></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="20" title="Python"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="20" title="Bash"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="20" title="GO"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="20" title="JavaScript"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="20" title="PHP"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="20" title="MySQL"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="20" title="CPP"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="20" title="C"></td>
+    <td><img src="Tech-Stack-Icons/Python-Dark.svg" width="20" title="Python"></td>
+    <td><img src="Tech-Stack-Icons/Bash-Dark.svg" width="20" title="Bash"></td>
+    <td><img src="Tech-Stack-Icons/GoLang.svg" width="20" title="GO"></td>
+    <td><img src="Tech-Stack-Icons/Powershell-Dark" width="20" title="Powershell"></td>
+    <td><img src="Tech-Stack-Icons/CPP.svg" width="20" title="CPP"></td>
+    <td><img src="Tech-Stack-Icons/Regex-Dark" width="20" title="Regex"></td>
+    <td><img src="Tech-Stack-Icons/JavaScript" width="20" title="JavaScript"></td>
+    <td><img src="Tech-Stack-Icons/SQLite.svg" width="20" title="SQLite"></td>
   </tr>
   <tr> <!--- Infrastructure and Labs goes here -->
     <td style="vertical-align: middle;"><b>Labs & OS : </b></td>
-    <td><img src="Tech Stack Icons/TryHackMe Logo.png" width="20" title="TryHackMe"></td>
-    <td><img src="Tech Stack Icons/HackTheBox Logo.jpeg" width="20" title="HackTheBox"></td>
-    <td><img src="Tech Stack Icons/HackerOne Logo.png" width="20" title="HackerOne"></td>
-    <td><img src="Tech Stack Icons/AWS Logo.png" width="20" title="AWS"></td>
-    <td><img src="Tech Stack Icons/Linux Logo.png" width="20" title="Linux"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="20" title="Git"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="20" title="VSCode"></td>
-    <td><img src="Tech Stack Icons/Trello Logo.png" width="20" title="Trello"></td>
+    <td><img src="Tech-Stack-Icons/Linux-Logo" width="20" title="Linux (REMnux & Kali)"></td>
+    <td><img src="Tech-Stack-Icons/Windows-Logo" width="20" title="Windows Server & OS"></td>
+    <td><img src="Tech-Stack-Icons/Git-Logo" width="20" title="Git / Version Control"></td>
+    <td><img src="Tech-Stack-Icons/VSCode-Dark" width="20" title="VS Code"></td>
+    <td><img src="Tech-Stack-Icons/Docker-Logo" width="20" title="Docker Containerization"></td>
+    <td><img src="Tech-Stack-Icons/CyberDefenders-Logo" width="20" title="CyberDefenders (Incident Response Labs)"></td>
+    <td><img src="Tech-Stack-Icons/TryHackMe-Logo" width="20" title="TryHackMe (SOC Career Path)"></td>
+    <td><img src="Tech-Stack-Icons/VMware" width="20" title="VMware Workstation Pro"></td>
   </tr>
 </table><br>
 
 <details>
-<summary><b>🚀 My Technical Roadmap & Learning Path</b></summary><br>
+<summary><b>🗺️ My Defensive Cybersecurity Roadmap & Learning Path</b></summary><br>
 <table width="100%">
   <tr>
-    <td> 🔌 Phase 00 - IT & Networking Fundamentals</td>
-    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
+    <td>🔹 <b>Phase 00</b> - IT & Networking Fundamentals (Cisco Paths)</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
   </tr>
   <tr>
-    <td> 💻 Phase 01 - Operating Systems Mastery</td>
-    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
+    <td>🐧 <b>Phase 01</b> - Linux Essentials & Operating Systems Mastery</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦</td>
   </tr>
   <tr>
-    <td> 🛡️ Phase 02 - Advanced Networking & Security</td>
-    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛</td>
+    <td>🛡️ <b>Phase 02</b> - Junior Cybersecurity Analyst Core (Cisco 120hrs)</td>
+    <td align="center">🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦⬛⬛⬛⬛</td>
   </tr>
   <tr>
-    <td> 🥷 Phase 03 - Offensive Security Core</td>
-    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
+    <td>📊 <b>Phase 03</b> - Advanced Threat Detection & Splunk SIEM</td>
+    <td align="center">🟦🟦🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
   <tr>
-    <td> 🌐 Phase 04 - Web Application Pentesting</td>
-    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
+    <td>🔍 <b>Phase 04</b> - Digital Forensics & Incident Response (CyberDefenders)</td>
+    <td align="center">🟦🟦🟦⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
   <tr>
-    <td> 👑 Phase 05 - Active Directory & Red Team</td>
-    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
+    <td>🎓 <b>Phase 05</b> - Professional Certifications (CompTIA CySA+ & CCNA)</td>
+    <td align="center">⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛</td>
   </tr>
 </table>
 <br>
