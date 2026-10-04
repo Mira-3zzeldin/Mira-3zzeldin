@@ -12,11 +12,11 @@
 
 ---------------------------------------------------------
 
-👨🏻‍💻 **About Me** <a href="https://rootshadow.hashnode.dev/"><img src="assets/Main-Pic" min-width="300px" max-width="300px" width="320px" align="right"></a> : Security Operations Center (SOC) Engineer | IT Graduate @ Mansoura University <br>
+👨🏻‍💻 **About Me** <a href="https://rootshadow.hashnode.dev/"><img src="assets/Main-Pic" min-width="300px" max-width="300px" width="320px" align="right"></a> : Junior SOC Engineer | IT Graduate @ Mansoura University <br>
 ⚡ Check my ✨ [LinkedIn](https://www.linkedin.com/in/mira3zzeldin/) or 🌱 [WriteUps](https://rootshadow.hashnode.dev/)<br>
 📫 How to reach me : Send an [Email](mailto:mira3zzeldin@gmail.com) or message me on Discord: **mira3zzeldin**<br>
 👯 Seeking Synergy : Looking to join elite Blue Team & CTF Teams.<br>
-💬 Knowledge Exchange: Let's discuss Threat Hunting, SIEM/Log Analysis, Network Forensics, and CTF Writeups.<br><br>
+💬 Knowledge Exchange: Let's discuss Threat Hunting and CTF Writeups.<br><br>
 
 <!--- Adding Tech Stack open Section -->
 <b>🛠 Tech Stack & Certifications</b><br>
@@ -29,7 +29,7 @@
     <td><img src="Tech-Stack-Icons/Volatility-Logo.png" width="20" title="Volatility"></td>
     <td><img src="Tech-Stack-Icons/CyberChef-Logo.png" width="20" title="CyberChef"></td>
     <td><img src="Tech-Stack-Icons/Autopsy-Logo.png" width="20" title="Autopsy"></td>
-    <td><img src="Tech-Stack-Icons/Snort-Logo.png" width="20" title="Snort IDS"></td>
+    <td><img src="Tech-Stack-Icons/Snort-Light-Logo.png" width="20" title="Snort IDS"></td>
     <td><img src="Tech-Stack-Icons/Nmap-Logo.png" width="20" title="Nmap"></td>
     <td><img src="Tech-Stack-Icons/Kali-Linux-Logo.png" width="20" title="Kali Linux"></td>
   </tr>
@@ -39,22 +39,22 @@
     <td><img src="Tech-Stack-Icons/Python-Dark.svg" width="20" title="Python"></td>
     <td><img src="Tech-Stack-Icons/Bash-Dark.svg" width="20" title="Bash"></td>
     <td><img src="Tech-Stack-Icons/GoLang.svg" width="20" title="GO"></td>
-    <td><img src="Tech-Stack-Icons/Powershell-Dark" width="20" title="Powershell"></td>
+    <td><img src="Tech-Stack-Icons/Powershell-Dark.svg" width="20" title="Powershell"></td>
     <td><img src="Tech-Stack-Icons/CPP.svg" width="20" title="CPP"></td>
-    <td><img src="Tech-Stack-Icons/Regex-Dark" width="20" title="Regex"></td>
-    <td><img src="Tech-Stack-Icons/JavaScript" width="20" title="JavaScript"></td>
+    <td><img src="Tech-Stack-Icons/Regex-Dark.svg" width="20" title="Regex"></td>
+    <td><img src="Tech-Stack-Icons/JavaScript.svg" width="20" title="JavaScript"></td>
     <td><img src="Tech-Stack-Icons/SQLite.svg" width="20" title="SQLite"></td>
   </tr>
   <tr> <!--- Infrastructure and Labs goes here -->
     <td style="vertical-align: middle;"><b>Labs & OS : </b></td>
-    <td><img src="Tech-Stack-Icons/Linux-Logo" width="20" title="Linux (REMnux & Kali)"></td>
-    <td><img src="Tech-Stack-Icons/Windows-Logo" width="20" title="Windows Server & OS"></td>
-    <td><img src="Tech-Stack-Icons/Git-Logo" width="20" title="Git / Version Control"></td>
-    <td><img src="Tech-Stack-Icons/VSCode-Dark" width="20" title="VS Code"></td>
-    <td><img src="Tech-Stack-Icons/Docker-Logo" width="20" title="Docker Containerization"></td>
-    <td><img src="Tech-Stack-Icons/CyberDefenders-Logo" width="20" title="CyberDefenders (Incident Response Labs)"></td>
-    <td><img src="Tech-Stack-Icons/TryHackMe-Logo" width="20" title="TryHackMe (SOC Career Path)"></td>
-    <td><img src="Tech-Stack-Icons/VMware" width="20" title="VMware Workstation Pro"></td>
+    <td><img src="Tech-Stack-Icons/Linux-Logo.png" width="20" title="Linux (REMnux & Kali)"></td>
+    <td><img src="Tech-Stack-Icons/Windows-Logo.png" width="20" title="Windows Server & OS"></td>
+    <td><img src="Tech-Stack-Icons/Git-Logo.svg" width="20" title="Git / Version Control"></td>
+    <td><img src="Tech-Stack-Icons/VSCode-Dark.svg" width="20" title="VS Code"></td>
+    <td><img src="Tech-Stack-Icons/Docker-Logo.png" width="20" title="Docker Containerization"></td>
+    <td><img src="Tech-Stack-Icons/CyberDefenders-Logo.png" width="20" title="CyberDefenders (Incident Response Labs)"></td>
+    <td><img src="Tech-Stack-Icons/TryHackMe-Logo.png" width="20" title="TryHackMe (SOC Career Path)"></td>
+    <td><img src="Tech-Stack-Icons/VMware.png" width="20" title="VMware Workstation Pro"></td>
   </tr>
 </table><br>
 
