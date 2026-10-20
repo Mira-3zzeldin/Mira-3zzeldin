@@ -140,7 +140,7 @@
 <br><br> **"Security is not a product, but a process."**, Bruce Schneier <br><br>
 <a href="https://www.linkedin.com/in/mira3zzeldin/">
   <img src="Tech Stack Icons/Linkedin Logo.png" width="30" title="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="Twiter">
+<a href="https://x.com/Mira3zzeldin">
   <img src="Tech Stack Icons/Twitter Logo.png" width="30" title="Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="Discord">
   <img src="Tech Stack Icons/Discord Logo.png" width="30" title="Discord"></a>
